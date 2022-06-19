@@ -5,7 +5,6 @@ This repository is aimed at extending dialectal support for Chinese voicebanks o
 這一工程旨在增加Synthesizer V漢語方言並縮小華語聲庫音素表並降低其解析程序之時空複雜度。
 |#|拼音|现行(X-SAMPA)|建议
 |-|-|-|-|
-|#|拼音|现行(X-SAMPA)|建议
 |1|b|**p**|**b**
 |2|P|**ph**|**p**
 |3|m|**m**|**m**
@@ -17,13 +16,13 @@ This repository is aimed at extending dialectal support for Chinese voicebanks o
 |9|g|**k**|**g**
 |10|k|**kh**|**k**
 |11|h|**x**|**h**
-|12|j|**ts\ **|**j**
-|13|q|**ts\h**|**q**
-|14|x|**s\ **|**x**
-|15|zh|**ts`**|**zh**
-|16|ch|**ts`h**|**ch**
-|17|sh|**s`**|**sh**
-|18|r|**z`**|**r**
+|12|j|**ts&#92;** |**j**
+|13|q|**ts&#92h**|**q**
+|14|x|**s&#92;** |**x**
+|15|zh|**ts&#96;**|**zh**
+|16|ch|**ts&#96;h**|**ch**
+|17|sh|**s&#96;**|**sh**
+|18|r|**z&#96;**|**r**
 |19|z|**ts**|**z**
 |20|c|**tsh**|**c**
 |21|s|**s**|**s**
@@ -38,8 +37,8 @@ This repository is aimed at extending dialectal support for Chinese voicebanks o
 |30|ie|**ie**|i** eh**
 |31|üe|**yE**|yu eh
 |32|i|**i**|**i**
-|33|i|**i\ **|**ih**
-|34|i|**i`**|ih
+|33|(zh/ch/sh/r)i|**i&#96**|**ih**
+|34|(z/c/s)i|**i&#92**|ih
 |35|u|**u**|**u**
 |36|ü|**y**|**yu**
 |37|ai|a **:\i**|a y
@@ -53,10 +52,10 @@ This repository is aimed at extending dialectal support for Chinese voicebanks o
 |45|an|a **:n**|a n
 |46|ian|**iE** :n|i eh n
 |47|uan|ua :n|u a n
-|48|üan|**y{ **:n|yu eh n
+|48|üan|**y{**:n|yu eh n
 |49|en|**@** :n|**ex** n
 |50|in|i :n|i n
-|51|un|**u@ **:n|u n
+|51|un|**u@** :n|u n
 |52|ün|yE :n|yu n
 |53|ang|**A N**|a **ng**
 |54|iang|**iA** N|i a ng
@@ -66,5 +65,5 @@ This repository is aimed at extending dialectal support for Chinese voicebanks o
 |58|ueng|u@ N|u ex ng
 |59|ong|**U** N|o ng
 |60|iong|**iU** N|i o ng
-|61|er|a **r\`**|ex **rr**
+|61|er|a **r&#92;&#96;**|ex **rr**
 |总计|61|55|37
