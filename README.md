@@ -5,7 +5,8 @@
 This repository is aimed at extending dialectal support for Chinese voicebanks of Synthesizer V Studio (SVS) and reduce their phoneme list size to lower the time and space complexity of their respective resolution programs. Since SVS does not tell initial L's (`l0` in VOCALOID) apart from the final L's (`l` in VOCALOID), aspired explosives apart from unaspired ones (distinguished in VOCALOID) in English, along with the H's in *ha*, *he*, *ho* (all /h/) and *hi* (/ç/), `a` (**a**, **a**n and **a**i) and `A`, (**a**u and **a**ng)，`o` (**o**) and `U` (**o**ng), ``i` `` (zh**i**, ch**i**, sh**i** and r**i**) and `i\ ` (z**i**, c**i** and s**i**), `e` (**ê**, **e**i and i**e**) and `E` (i**a**n and ü**e**) and `{` (ü**a**n), as well as initial and final *i*'s and *n*'s shall not be differentiated.
 
 ## 華語方面列表 List for Mandarin
-|#|拼音 Pinyin|現行 Current(X-SAMPA)|建議 Suggestion |備注 Note
+### 聲母 Initials
+|#|拼音 Pinyin|現行 Current (X-SAMPA)|建議 Suggestion |備注 Note
 |-|-|-|-|-|
 |1|b|**p**|**b**|*多數人讀成 mostly read as* /b/ `b`
 |2|p|**ph**|**p**|
@@ -30,6 +31,9 @@ This repository is aimed at extending dialectal support for Chinese voicebanks o
 |21|s|**s**|**s**
 |22|y|**j**|**y**
 |23|w|**w**|**w**
+### 韻母 Finals
+|#|拼音 Pinyin|現行 Current (X-SAMPA)|建議 Suggestion |備注 Note
+|-|-|-|-|-|
 |24|a|**a**|**a**
 |25|ia|**ia**|**y a**|*介音應拆分 should be split as noticed*
 |26|ua|**ua**|**w a**|*介音應拆分 should be split as noticed*
@@ -68,7 +72,10 @@ This repository is aimed at extending dialectal support for Chinese voicebanks o
 |59|ong|**U** N|o ng|*常讀作 normally read as* /oŋ/ `o N`
 |60|iong|**iU** N|y o ng|*介音應拆分 should be split as noticed*
 |61|er|a **r&#92;&#96;**|ex **rr**|*真實發音是 actually read as* /ɚ/~/əɻ/ ``@` `` ~ ``@ r\` ``
-|总计|61|55|37
+### 總計 Total
+|拼音 Pinyin|現行 Current (X-SAMPA)|建議 Suggestion
+|-|-|-|
+|61|55|38
 ## Credits 致謝
 - [華侃如 先生 Sir Kanru Hua](https://github.com/sleepwalking)
 - [Dreamtonics](https://dreamtonics.com) [Github](https://github.com/dreamtonics)
