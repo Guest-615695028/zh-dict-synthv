@@ -1,10 +1,83 @@
 # zh-dict-synthv
 ## 説明 Description
-這一工程旨在增加Synthesizer V Studio（SV）漢語方言並縮小華語聲庫音素表並降低其解析程序之時空複雜度。既然SVS不區分VOCALOID（VD）區分的英語前L（**l**ot, VD作``l0``）與後L（ge**l**, VD作``l``）、送氣塞音與不送氣塞音，日語ha、he、ho（は、へ、ほ）的h（/h/）與hi（ひ）的h（/ç/），中文的`a`（**a**、**a**n、**a**i）與`A`（**a**u、**a**ng），`o`（**o**）與`U`（**o**ng），``i` ``（zh**i**、ch**i**、sh**i**、r**i**）與`i\ `（z**i**、c**i**、s**i**），`e`（**ê**、**e**i、i**e**）、`E`（i**a**n、ü**e**）與`{`（ü**a**n）、首尾i音、n音也不應細分。
+這一工程旨在增加Synthesizer V Studio（SV）漢語方言並縮小華語聲庫音素表並降低其解析程序之時空複雜度。
 
-This repository is aimed at extending dialectal support for Chinese voicebanks of Synthesizer V Studio (SVS) and reduce their phoneme list size to lower the time and space complexity of their respective resolution programs. Since SVS does not tell initial L's (`l0` in VOCALOID) apart from the final L's (`l` in VOCALOID), aspired explosives apart from unaspired ones (distinguished in VOCALOID) in English, along with the H's in *ha*, *he*, *ho* (all /h/) and *hi* (/ç/), `a` (**a**, **a**n and **a**i) and `A`, (**a**u and **a**ng)，`o` (**o**) and `U` (**o**ng), ``i` `` (zh**i**, ch**i**, sh**i** and r**i**) and `i\ ` (z**i**, c**i** and s**i**), `e` (**ê**, **e**i and i**e**) and `E` (i**a**n and ü**e**) and `{` (ü**a**n), as well as initial and final *i*'s and *n*'s shall not be differentiated.
+This repository is aimed at extending dialectal support for Chinese voicebanks of Synthesizer V Studio (SVS) and reduce their phoneme list size to lower the time and space complexity of their respective resolution programs.
+### 既定事實 Accomplished Facts
+1. SVS不區分VOCALOID區分的英語前L（**l**ot, ``l0``）與後L（ge**l**, ``l``）、送氣塞音與不送氣塞音；
+2. SVS不區分日語ha、he、ho（は、へ、ほ）的h（/h/）與hi（ひ）的h（/ç/）；
+3. SVS誤將中文io并入iao；
+4. SVS中文音素方案難以獨立理解、記憶，不利於跨語種調教。
+5. 自1958年出版以來，中華人民共和國《[漢語拼音方案](https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3)》從未將漢語拼音與國際音標音值（表徵爲X-SAMPA）對應，且現有對應關係存在爭議。
+
+1. SVS does not tell initial L's (`l0` in VOCALOID) apart from the final L's (`l` in VOCALOID), aspired explosives apart from unaspired ones (distinguished in VOCALOID) in English;
+2. SVS does not distinguish the H's in *ha*, *he*, *ho* (all /h/) and *hi* (/ç/);
+3. SVS mistakes Chinese *io* as *iao*;
+4. SVS phoneme system for Chinese (`mandarin-xsampa`) is difficult to comprehend and memorize without the assistance of Pinyin, which results in a disadvantage of translingual synthesis.
+5. [Scheme for the Chinese Phonetic Alphabet](https://en.wikipedia.org/wiki/Pinyin) has not been mapping Pinyin to IPA (then X-SAMPA) ever since its publication by the Chinese Government in 1958, with their corrrespondence still controversial.
 
 ## 華語方面列表 List for Mandarin
+### 音素 Phonemes
+```
+a   vowel
+A   vowel *
+o   vowel
+@   vowel
+e   vowel
+7   vowel
+U   vowel *
+u   vowel
+i   vowel
+i\  vowel
+i`  vowel *
+y   vowel
+AU  diphthong *
+@U  diphthong *
+ia  diphthong *
+iA  diphthong *
+iAU diphthong *
+ie  diphthong *
+iE  diphthong *
+iU  diphthong *
+i@U diphthong *
+y{  diphthong *
+yE  diphthong *
+ua  diphthong *
+uA  diphthong *
+u@  diphthong *
+ue  diphthong *
+uo  diphthong *
+:\i coda *
+r\` coda
+:n  coda *
+N   coda
+p   stop
+ph  stop
+t   stop
+th  stop
+k   stop
+kh  stop
+ts\  affricate
+ts   affricate
+tsh  affricate
+ts`  affricate
+ts`h affricate
+x    aspirate *actually h*
+f    fricative
+s    fricative
+s`   fricative
+ts\h fricative *actually affricate*
+s\   fricative
+m   nasal
+n   nasal
+l   liquid
+z`  semivowel
+w   semivowel
+j   semivowel
+pau silence *
+sil silence
+```
+`*` 擬淘汰 To be eliminated
 ### 聲母 Initials
 |#|拼音 Pinyin|現行 Current (X-SAMPA)|建議 Suggestion |備注 Note
 |-|-|-|-|-|
