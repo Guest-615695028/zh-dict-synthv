@@ -19,18 +19,18 @@ This repository is aimed at extending dialectal support for Chinese voicebanks o
 ## 華語方面列表 List for Mandarin
 ### 音素 Phonemes
 ```
-a   vowel
+a   vowel -> a
 A   vowel *
-o   vowel
-@   vowel
-e   vowel
-7   vowel
+o   vowel -> o
+@   vowel -> e
+e   vowel -> eh
+7   vowel -> ex
 U   vowel *
-u   vowel
-i   vowel
-i\  vowel
+u   vowel -> u
+i   vowel -> i
+i\  vowel -> i
 i`  vowel *
-y   vowel
+y   vowel -> yu
 AU  diphthong *
 @U  diphthong *
 ia  diphthong *
@@ -48,34 +48,34 @@ u@  diphthong *
 ue  diphthong *
 uo  diphthong *
 :\i coda *
-r\` coda
+r\` coda -> rr
 :n  coda *
-N   coda
-p   stop
-ph  stop
-t   stop
-th  stop
-k   stop
-kh  stop
-ts\  affricate
-ts   affricate
-tsh  affricate
-ts`  affricate
-ts`h affricate
-x    aspirate *actually h*
-f    fricative
-s    fricative
-s`   fricative
-ts\h fricative *actually affricate*
-s\   fricative
-m   nasal
-n   nasal
-l   liquid
-z`  semivowel
-w   semivowel
-j   semivowel
+N   coda -> ng
+p   stop -> b
+ph  stop -> p
+t   stop -> d
+th  stop -> t
+k   stop -> g
+kh  stop -> k
+ts\  affricate -> j
+ts   affricate -> z
+tsh  affricate -> c
+ts`  affricate -> zh
+ts`h affricate -> ch
+x    aspirate *actually h* -> h
+f    fricative -> f
+s    fricative -> s
+s`   fricative -> sh
+ts\h fricative *actually affricate* -> q
+s\   fricative -> x
+m   nasal -> m
+n   nasal -> n
+l   liquid -> l
+z`  semivowel -> r
+w   semivowel -> w
+j   semivowel -> y
 pau silence *
-sil silence
+sil silence -> sil
 ```
 `*` 擬淘汰 To be eliminated
 ### 聲母 Initials
@@ -145,9 +145,29 @@ sil silence
 |59|ong|**U** N|o ng|*常讀作 normally read as* /oŋ/ `o N`
 |60|iong|**iU** N|y o ng|*介音應拆分 should be split as noticed*
 |61|er|a **r&#92;&#96;**|ex **rr**|*真實發音是 actually read as* /ɚ/~/əɻ/ ``@` `` ~ ``@ r\` ``
+## 粵語方面列表 List for Cantonese
+### 聲母 Initials
+|1|2|3|4|5|
+|-|-|-|-|-|
+|b|p|m|f|-|
+|d|t|n|-|l|
+|g|k|h|ng|-|
+|gw|kw|-|-|w|
+|*zh*|*ch*|*sh*|-|-|
+|z|c|s|-|y|
+### 韻母 Finals
+|medial|-|`j`|`w`|`m`|`n`|`N`|`p`|`t`|`k`|
+|-|-|-|-|-|-|-|-|-|-|
+|`a`|aa/a|aai|aau|aam|aan|aang|aap|aat|aak|
+|`@`|-|ai|au|am|an|ang|ap|at|ak|
+|`e`||e|ei|*eu*|*em*|*en*|eng|*ep*|*et*|*ek*|
+|`i`|i|-|iu|im|in|ing|ip|it|ik|
+|`o`|o|oi|ou|om|on|ong|*op*|ot|ok|
+|`u`|u|ui|-|-|un|ung|-|ut|uk|
+|`7`|oe|eoi|-|-|eon|oeng|-|eot|oek|
+|`y`|yu|-|-|-|yun|-|-|yut|-
 ### 總計 Total
 |拼音 Pinyin|現行 Current (X-SAMPA)|建議 Suggestion
-|-|-|-|
 |61|55|38
 ## Credits 致謝
 - [華侃如 先生 Sir Kanru Hua](https://github.com/sleepwalking)
