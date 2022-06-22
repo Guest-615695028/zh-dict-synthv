@@ -113,7 +113,7 @@ sil silence -> sil
 |27|o|**o**|**o**
 |28|uo|**uo**|**w o**|*介音應拆分 should be split as noticed*
 |29|e|**7**|**e**
-|30|ie|**ie**|y** eh**|*介音應拆分 should be split as noticed*
+|30|ie|**ie**|y **eh**|*介音應拆分 should be split as noticed*
 |31|üe|**yE**|yu eh|*介音應拆分；真實發音仍是 should be split and read as* /ɥe/ `H e`
 |32|i|**i**|**i**
 |33|(zh/ch/sh/r)i|**i&#96;**|**ih**|*不應與下一音素區分 Not necessarily distinguished with below*
@@ -135,8 +135,8 @@ sil silence -> sil
 |49|en|**@** :n|**ex** n
 |50|in|i :n|i n
 |51|un|**u@** :n|u n|*貼近真實發音 cater to authentic pronunciation* /un/
-|52|ün|yE :n|yu n|*真實發音是 actually read as* /yn/
-|53|ang|**A N**|a **ng**|*真實發音是 actually read as* /aŋ/ `a N`
+|52|ün|yE :n|yu n|*正確發音是 actually read as* /yn/
+|53|ang|**A N**|a **ng**|*正確發音是 actually read as* /aŋ/ `a N`
 |54|iang|**iA** N|y a ng|*介音應拆分 should be split as noticed*
 |55|uang|**uA** N|w a ng|*介音應拆分 should be split as noticed*
 |56|eng|@ N|ex ng
@@ -144,7 +144,7 @@ sil silence -> sil
 |58|ueng|u@ N|w ex ng|*介音應拆分 should be split as noticed*
 |59|ong|**U** N|o ng|*常讀作 normally read as* /oŋ/ `o N`
 |60|iong|**iU** N|y o ng|*介音應拆分 should be split as noticed*
-|61|er|a **r&#92;&#96;**|ex **rr**|*真實發音是 actually read as* /ɚ/~/əɻ/ ``@` `` ~ ``@ r\` ``
+|61|er|a **r&#92;&#96;**|ex **rr**|*正確發音是 actually read as* /ɚ/~/əɻ/ ``@` `` ~ ``@ r\` ``
 ## 粵語方面列表 List for Cantonese
 ### 聲母 Initials
 |1|2|3|4|5|
