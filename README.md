@@ -147,6 +147,7 @@ sil silence -> sil
 |61|er|a **r&#92;&#96;**|ex **rr**|*正確發音是 actually read as* /ɚ/~/əɻ/ ``@` `` ~ ``@ r\` ``
 ## 粵語方面列表 List for Cantonese
 ### 聲母 Initials
+与華語對應相同（除`h`爲/h/而不是/x/；華語母語者也常以/h/代/x/）
 |1|2|3|4|5|
 |-|-|-|-|-|
 |b|p|m|f|-|
@@ -168,7 +169,9 @@ sil silence -> sil
 |`y`|yu|-|-|-|yun|-|-|yut|-
 ### 總計 Total
 |拼音 Pinyin|現行 Current (X-SAMPA)|建議 Suggestion
+|-|-|-
 |61|55|38
 ## Credits 致謝
-- [華侃如 先生 Sir Kanru Hua](https://github.com/sleepwalking)
+- [華侃如 先生 Sir Kan-ru "Sleepwalking" Hua](https://github.com/sleepwalking)
+- [李迪克 先生 Sir Di-ke "Ddickky" Li](https://weibo.com/ddickky)
 - [Dreamtonics](https://dreamtonics.com) [Github](https://github.com/dreamtonics)
