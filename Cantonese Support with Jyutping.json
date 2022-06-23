@@ -1,0 +1,3512 @@
+{
+  "data": [
+    {
+      "w": "a",
+      "p": "a"
+    },
+    {
+      "w": "aai",
+      "p": "a j"
+    },
+    {
+      "w": "aak",
+      "p": "a k"
+    },
+    {
+      "w": "aam",
+      "p": "a m"
+    },
+    {
+      "w": "aan",
+      "p": "a n"
+    },
+    {
+      "w": "aang",
+      "p": "a N"
+    },
+    {
+      "w": "aap",
+      "p": "a p"
+    },
+    {
+      "w": "aat",
+      "p": "a t"
+    },
+    {
+      "w": "aau",
+      "p": "a w"
+    },
+    {
+      "w": "ai",
+      "p": "@ j"
+    },
+    {
+      "w": "ak",
+      "p": "@ k"
+    },
+    {
+      "w": "am",
+      "p": "@ m"
+    },
+    {
+      "w": "an",
+      "p": "@ n"
+    },
+    {
+      "w": "ang",
+      "p": "@ N"
+    },
+    {
+      "w": "ap",
+      "p": "@ p"
+    },
+    {
+      "w": "at",
+      "p": "@ t"
+    },
+    {
+      "w": "au",
+      "p": "@ w"
+    },
+    {
+      "w": "ba",
+      "p": "p a"
+    },
+    {
+      "w": "baai",
+      "p": "p a j"
+    },
+    {
+      "w": "baak",
+      "p": "p a k"
+    },
+    {
+      "w": "baan",
+      "p": "p a n"
+    },
+    {
+      "w": "baang",
+      "p": "p a N"
+    },
+    {
+      "w": "baat",
+      "p": "p a t"
+    },
+    {
+      "w": "baau",
+      "p": "p a w"
+    },
+    {
+      "w": "bai",
+      "p": "p @ j"
+    },
+    {
+      "w": "bak",
+      "p": "p @ k"
+    },
+    {
+      "w": "ban",
+      "p": "p @ n"
+    },
+    {
+      "w": "bang",
+      "p": "p @ N"
+    },
+    {
+      "w": "bat",
+      "p": "p @ t"
+    },
+    {
+      "w": "bau",
+      "p": "p @ w"
+    },
+    {
+      "w": "be",
+      "p": "p e"
+    },
+    {
+      "w": "bei",
+      "p": "p e j"
+    },
+    {
+      "w": "bek",
+      "p": "p e k"
+    },
+    {
+      "w": "beng",
+      "p": "p e N"
+    },
+    {
+      "w": "bi",
+      "p": "p i"
+    },
+    {
+      "w": "bik",
+      "p": "p i k"
+    },
+    {
+      "w": "bin",
+      "p": "p i n"
+    },
+    {
+      "w": "bing",
+      "p": "p i N"
+    },
+    {
+      "w": "bit",
+      "p": "p i t"
+    },
+    {
+      "w": "biu",
+      "p": "p i w"
+    },
+    {
+      "w": "bo",
+      "p": "p o"
+    },
+    {
+      "w": "bok",
+      "p": "p o k"
+    },
+    {
+      "w": "bong",
+      "p": "p o N"
+    },
+    {
+      "w": "bou",
+      "p": "p o w"
+    },
+    {
+      "w": "bu",
+      "p": "p u"
+    },
+    {
+      "w": "bui",
+      "p": "p u j"
+    },
+    {
+      "w": "buk",
+      "p": "p u k"
+    },
+    {
+      "w": "bun",
+      "p": "p u n"
+    },
+    {
+      "w": "bung",
+      "p": "p u N"
+    },
+    {
+      "w": "but",
+      "p": "p u t"
+    },
+    {
+      "w": "ca",
+      "p": "tsh a"
+    },
+    {
+      "w": "caai",
+      "p": "tsh a j"
+    },
+    {
+      "w": "caak",
+      "p": "tsh a k"
+    },
+    {
+      "w": "caam",
+      "p": "tsh a m"
+    },
+    {
+      "w": "caan",
+      "p": "tsh a n"
+    },
+    {
+      "w": "caang",
+      "p": "tsh a N"
+    },
+    {
+      "w": "caap",
+      "p": "tsh a p"
+    },
+    {
+      "w": "caat",
+      "p": "tsh a t"
+    },
+    {
+      "w": "caau",
+      "p": "tsh a w"
+    },
+    {
+      "w": "cai",
+      "p": "tsh @ j"
+    },
+    {
+      "w": "cak",
+      "p": "tsh @ k"
+    },
+    {
+      "w": "cam",
+      "p": "tsh @ m"
+    },
+    {
+      "w": "can",
+      "p": "tsh @ n"
+    },
+    {
+      "w": "cang",
+      "p": "tsh @ N"
+    },
+    {
+      "w": "cap",
+      "p": "tsh @ p"
+    },
+    {
+      "w": "cat",
+      "p": "tsh @ t"
+    },
+    {
+      "w": "cau",
+      "p": "tsh @ w"
+    },
+    {
+      "w": "ce",
+      "p": "tsh e"
+    },
+    {
+      "w": "cei",
+      "p": "tsh e j"
+    },
+    {
+      "w": "cek",
+      "p": "tsh e k"
+    },
+    {
+      "w": "ceng",
+      "p": "tsh e N"
+    },
+    {
+      "w": "ceoi",
+      "p": "tsh 7 j"
+    },
+    {
+      "w": "ceon",
+      "p": "tsh 7 n"
+    },
+    {
+      "w": "ceot",
+      "p": "tsh 7 t"
+    },
+    {
+      "w": "cha",
+      "p": "ts`h a"
+    },
+    {
+      "w": "chaai",
+      "p": "ts`h a j"
+    },
+    {
+      "w": "chaak",
+      "p": "ts`h a k"
+    },
+    {
+      "w": "chaam",
+      "p": "ts`h a m"
+    },
+    {
+      "w": "chaan",
+      "p": "ts`h a n"
+    },
+    {
+      "w": "chaang",
+      "p": "ts`h a N"
+    },
+    {
+      "w": "chaap",
+      "p": "ts`h a p"
+    },
+    {
+      "w": "chaat",
+      "p": "ts`h a t"
+    },
+    {
+      "w": "chaau",
+      "p": "ts`h a w"
+    },
+    {
+      "w": "chai",
+      "p": "ts`h @ j"
+    },
+    {
+      "w": "chak",
+      "p": "ts`h @ k"
+    },
+    {
+      "w": "cham",
+      "p": "ts`h @ m"
+    },
+    {
+      "w": "chan",
+      "p": "ts`h @ n"
+    },
+    {
+      "w": "chang",
+      "p": "ts`h @ N"
+    },
+    {
+      "w": "chap",
+      "p": "ts`h @ p"
+    },
+    {
+      "w": "chat",
+      "p": "ts`h @ t"
+    },
+    {
+      "w": "chau",
+      "p": "ts`h @ w"
+    },
+    {
+      "w": "che",
+      "p": "ts`h e"
+    },
+    {
+      "w": "chei",
+      "p": "ts`h e j"
+    },
+    {
+      "w": "chek",
+      "p": "ts`h e k"
+    },
+    {
+      "w": "cheng",
+      "p": "ts`h e N"
+    },
+    {
+      "w": "cheoi",
+      "p": "ts`h 7 j"
+    },
+    {
+      "w": "cheon",
+      "p": "ts`h 7 n"
+    },
+    {
+      "w": "cheot",
+      "p": "ts`h 7 t"
+    },
+    {
+      "w": "chi",
+      "p": "ts`h i"
+    },
+    {
+      "w": "chik",
+      "p": "ts`h i k"
+    },
+    {
+      "w": "chim",
+      "p": "ts`h i m"
+    },
+    {
+      "w": "chin",
+      "p": "ts`h i n"
+    },
+    {
+      "w": "ching",
+      "p": "ts`h i N"
+    },
+    {
+      "w": "chip",
+      "p": "ts`h i p"
+    },
+    {
+      "w": "chit",
+      "p": "ts`h i t"
+    },
+    {
+      "w": "chiu",
+      "p": "ts`h i w"
+    },
+    {
+      "w": "choe",
+      "p": "ts`h 7"
+    },
+    {
+      "w": "choek",
+      "p": "ts`h 7 k"
+    },
+    {
+      "w": "choeng",
+      "p": "ts`h 7 N"
+    },
+    {
+      "w": "chok",
+      "p": "ts`h o k"
+    },
+    {
+      "w": "chong",
+      "p": "ts`h o N"
+    },
+    {
+      "w": "chuk",
+      "p": "ts`h u k"
+    },
+    {
+      "w": "chung",
+      "p": "ts`h u N"
+    },
+    {
+      "w": "chyu",
+      "p": "ts`h y"
+    },
+    {
+      "w": "chyun",
+      "p": "ts`h y n"
+    },
+    {
+      "w": "chyut",
+      "p": "ts`h y t"
+    },
+    {
+      "w": "ci",
+      "p": "tsh i"
+    },
+    {
+      "w": "cik",
+      "p": "tsh i k"
+    },
+    {
+      "w": "cim",
+      "p": "tsh i m"
+    },
+    {
+      "w": "cin",
+      "p": "tsh i n"
+    },
+    {
+      "w": "cing",
+      "p": "tsh i N"
+    },
+    {
+      "w": "cip",
+      "p": "tsh i p"
+    },
+    {
+      "w": "cit",
+      "p": "tsh i t"
+    },
+    {
+      "w": "ciu",
+      "p": "tsh i w"
+    },
+    {
+      "w": "co",
+      "p": "tsh o"
+    },
+    {
+      "w": "coe",
+      "p": "tsh 7"
+    },
+    {
+      "w": "coek",
+      "p": "tsh 7 k"
+    },
+    {
+      "w": "coeng",
+      "p": "tsh 7 N"
+    },
+    {
+      "w": "coi",
+      "p": "tsh o j"
+    },
+    {
+      "w": "cok",
+      "p": "tsh o k"
+    },
+    {
+      "w": "con",
+      "p": "tsh o n"
+    },
+    {
+      "w": "cong",
+      "p": "tsh o N"
+    },
+    {
+      "w": "cot",
+      "p": "tsh o t"
+    },
+    {
+      "w": "cou",
+      "p": "tsh o w"
+    },
+    {
+      "w": "cu",
+      "p": "tsh u"
+    },
+    {
+      "w": "cui",
+      "p": "tsh u j"
+    },
+    {
+      "w": "cuk",
+      "p": "tsh u k"
+    },
+    {
+      "w": "cung",
+      "p": "tsh u N"
+    },
+    {
+      "w": "cyu",
+      "p": "tsh y"
+    },
+    {
+      "w": "cyun",
+      "p": "tsh y n"
+    },
+    {
+      "w": "cyut",
+      "p": "tsh y t"
+    },
+    {
+      "w": "da",
+      "p": "t a"
+    },
+    {
+      "w": "daai",
+      "p": "t a j"
+    },
+    {
+      "w": "daak",
+      "p": "t a k"
+    },
+    {
+      "w": "daam",
+      "p": "t a m"
+    },
+    {
+      "w": "daan",
+      "p": "t a n"
+    },
+    {
+      "w": "daang",
+      "p": "t a N"
+    },
+    {
+      "w": "daap",
+      "p": "t a p"
+    },
+    {
+      "w": "daat",
+      "p": "t a t"
+    },
+    {
+      "w": "daau",
+      "p": "t a w"
+    },
+    {
+      "w": "dai",
+      "p": "t @ j"
+    },
+    {
+      "w": "dak",
+      "p": "t @ k"
+    },
+    {
+      "w": "dan",
+      "p": "t @ n"
+    },
+    {
+      "w": "dang",
+      "p": "t @ N"
+    },
+    {
+      "w": "dat",
+      "p": "t @ t"
+    },
+    {
+      "w": "dau",
+      "p": "t @ w"
+    },
+    {
+      "w": "de",
+      "p": "t e"
+    },
+    {
+      "w": "dei",
+      "p": "t e j"
+    },
+    {
+      "w": "dek",
+      "p": "t e k"
+    },
+    {
+      "w": "deng",
+      "p": "t e N"
+    },
+    {
+      "w": "deoi",
+      "p": "t 7 j"
+    },
+    {
+      "w": "deon",
+      "p": "t 7 n"
+    },
+    {
+      "w": "deot",
+      "p": "t 7 t"
+    },
+    {
+      "w": "di",
+      "p": "t i"
+    },
+    {
+      "w": "dik",
+      "p": "t i k"
+    },
+    {
+      "w": "dim",
+      "p": "t i m"
+    },
+    {
+      "w": "din",
+      "p": "t i n"
+    },
+    {
+      "w": "ding",
+      "p": "t i N"
+    },
+    {
+      "w": "dip",
+      "p": "t i p"
+    },
+    {
+      "w": "dit",
+      "p": "t i t"
+    },
+    {
+      "w": "diu",
+      "p": "t i w"
+    },
+    {
+      "w": "do",
+      "p": "t o"
+    },
+    {
+      "w": "doi",
+      "p": "t o j"
+    },
+    {
+      "w": "dok",
+      "p": "t o k"
+    },
+    {
+      "w": "dong",
+      "p": "t o N"
+    },
+    {
+      "w": "dou",
+      "p": "t o w"
+    },
+    {
+      "w": "du",
+      "p": "t u"
+    },
+    {
+      "w": "dui",
+      "p": "t u i"
+    },
+    {
+      "w": "duk",
+      "p": "t u k"
+    },
+    {
+      "w": "dung",
+      "p": "t u N"
+    },
+    {
+      "w": "dyun",
+      "p": "t y n"
+    },
+    {
+      "w": "dyut",
+      "p": "t y t"
+    },
+    {
+      "w": "e",
+      "p": "e"
+    },
+    {
+      "w": "ei",
+      "p": "e j"
+    },
+    {
+      "w": "ek",
+      "p": "e k"
+    },
+    {
+      "w": "eng",
+      "p": "e N"
+    },
+    {
+      "w": "eoi",
+      "p": "7 j"
+    },
+    {
+      "w": "eon",
+      "p": "7 n"
+    },
+    {
+      "w": "eot",
+      "p": "7 t"
+    },
+    {
+      "w": "fa",
+      "p": "f a"
+    },
+    {
+      "w": "faai",
+      "p": "f a j"
+    },
+    {
+      "w": "faak",
+      "p": "f a k"
+    },
+    {
+      "w": "faan",
+      "p": "f a n"
+    },
+    {
+      "w": "faang",
+      "p": "f a N"
+    },
+    {
+      "w": "faat",
+      "p": "f a t"
+    },
+    {
+      "w": "faau",
+      "p": "f a w"
+    },
+    {
+      "w": "fai",
+      "p": "f @ j"
+    },
+    {
+      "w": "fak",
+      "p": "f @ k"
+    },
+    {
+      "w": "fan",
+      "p": "f @ n"
+    },
+    {
+      "w": "fang",
+      "p": "f @ N"
+    },
+    {
+      "w": "fat",
+      "p": "f @ t"
+    },
+    {
+      "w": "fau",
+      "p": "f @ w"
+    },
+    {
+      "w": "fei",
+      "p": "f e j"
+    },
+    {
+      "w": "fek",
+      "p": "f e k"
+    },
+    {
+      "w": "feng",
+      "p": "f e N"
+    },
+    {
+      "w": "fo",
+      "p": "f o"
+    },
+    {
+      "w": "fok",
+      "p": "f o k"
+    },
+    {
+      "w": "fong",
+      "p": "f o N"
+    },
+    {
+      "w": "fou",
+      "p": "f o w"
+    },
+    {
+      "w": "fu",
+      "p": "f u"
+    },
+    {
+      "w": "fui",
+      "p": "f u j"
+    },
+    {
+      "w": "fuk",
+      "p": "f u k"
+    },
+    {
+      "w": "fun",
+      "p": "f u n"
+    },
+    {
+      "w": "fung",
+      "p": "f u N"
+    },
+    {
+      "w": "fut",
+      "p": "f u t"
+    },
+    {
+      "w": "ga",
+      "p": "k a"
+    },
+    {
+      "w": "gaai",
+      "p": "k a j"
+    },
+    {
+      "w": "gaak",
+      "p": "k a k"
+    },
+    {
+      "w": "gaam",
+      "p": "k a m"
+    },
+    {
+      "w": "gaan",
+      "p": "k a n"
+    },
+    {
+      "w": "gaang",
+      "p": "k a N"
+    },
+    {
+      "w": "gaap",
+      "p": "k a p"
+    },
+    {
+      "w": "gaat",
+      "p": "k a t"
+    },
+    {
+      "w": "gaau",
+      "p": "k a w"
+    },
+    {
+      "w": "gai",
+      "p": "k @ j"
+    },
+    {
+      "w": "gak",
+      "p": "k @ k"
+    },
+    {
+      "w": "gam",
+      "p": "k @ m"
+    },
+    {
+      "w": "gan",
+      "p": "k @ n"
+    },
+    {
+      "w": "gang",
+      "p": "k @ N"
+    },
+    {
+      "w": "gap",
+      "p": "k @ p"
+    },
+    {
+      "w": "gat",
+      "p": "k @ t"
+    },
+    {
+      "w": "gau",
+      "p": "k @ w"
+    },
+    {
+      "w": "gei",
+      "p": "k e j"
+    },
+    {
+      "w": "gek",
+      "p": "k e k"
+    },
+    {
+      "w": "geng",
+      "p": "k e N"
+    },
+    {
+      "w": "geoi",
+      "p": "k 7 j"
+    },
+    {
+      "w": "gi",
+      "p": "k i"
+    },
+    {
+      "w": "gik",
+      "p": "k i k"
+    },
+    {
+      "w": "gim",
+      "p": "k i m"
+    },
+    {
+      "w": "gin",
+      "p": "k i n"
+    },
+    {
+      "w": "ging",
+      "p": "k i N"
+    },
+    {
+      "w": "gip",
+      "p": "k i p"
+    },
+    {
+      "w": "git",
+      "p": "k i t"
+    },
+    {
+      "w": "giu",
+      "p": "k i w"
+    },
+    {
+      "w": "go",
+      "p": "k o"
+    },
+    {
+      "w": "goe",
+      "p": "k 7"
+    },
+    {
+      "w": "goek",
+      "p": "k 7 k"
+    },
+    {
+      "w": "goeng",
+      "p": "k 7 N"
+    },
+    {
+      "w": "goi",
+      "p": "k o j"
+    },
+    {
+      "w": "gok",
+      "p": "k o k"
+    },
+    {
+      "w": "gon",
+      "p": "k o n"
+    },
+    {
+      "w": "gong",
+      "p": "k o N"
+    },
+    {
+      "w": "got",
+      "p": "k o t"
+    },
+    {
+      "w": "gou",
+      "p": "k o w"
+    },
+    {
+      "w": "gu",
+      "p": "k u"
+    },
+    {
+      "w": "gui",
+      "p": "k u j"
+    },
+    {
+      "w": "guk",
+      "p": "k u k"
+    },
+    {
+      "w": "gun",
+      "p": "k u n"
+    },
+    {
+      "w": "gung",
+      "p": "k u N"
+    },
+    {
+      "w": "gut",
+      "p": "k u t"
+    },
+    {
+      "w": "gwa",
+      "p": "k w a"
+    },
+    {
+      "w": "gwaai",
+      "p": "k w a j"
+    },
+    {
+      "w": "gwaak",
+      "p": "k w a k"
+    },
+    {
+      "w": "gwaan",
+      "p": "k w a n"
+    },
+    {
+      "w": "gwaang",
+      "p": "k w a ng"
+    },
+    {
+      "w": "gwaat",
+      "p": "k w a t"
+    },
+    {
+      "w": "gwai",
+      "p": "k w a i"
+    },
+    {
+      "w": "gwak",
+      "p": "k w @ k"
+    },
+    {
+      "w": "gwan",
+      "p": "k w @ n"
+    },
+    {
+      "w": "gwang",
+      "p": "k w @ N"
+    },
+    {
+      "w": "gwat",
+      "p": "k w @ t"
+    },
+    {
+      "w": "gwik",
+      "p": "k w i k"
+    },
+    {
+      "w": "gwing",
+      "p": "k w i N"
+    },
+    {
+      "w": "gyu",
+      "p": "k y"
+    },
+    {
+      "w": "gyun",
+      "p": "k y n"
+    },
+    {
+      "w": "gyut",
+      "p": "k y t"
+    },
+    {
+      "w": "ha",
+      "p": "x a"
+    },
+    {
+      "w": "haai",
+      "p": "x a j"
+    },
+    {
+      "w": "haak",
+      "p": "x a k"
+    },
+    {
+      "w": "haam",
+      "p": "x a m"
+    },
+    {
+      "w": "haan",
+      "p": "x a n"
+    },
+    {
+      "w": "haang",
+      "p": "x a N"
+    },
+    {
+      "w": "haap",
+      "p": "x a p"
+    },
+    {
+      "w": "haat",
+      "p": "x a t"
+    },
+    {
+      "w": "haau",
+      "p": "x a w"
+    },
+    {
+      "w": "hai",
+      "p": "x @ j"
+    },
+    {
+      "w": "hak",
+      "p": "x @ k"
+    },
+    {
+      "w": "ham",
+      "p": "x @ m"
+    },
+    {
+      "w": "han",
+      "p": "x @ n"
+    },
+    {
+      "w": "hang",
+      "p": "x @ N"
+    },
+    {
+      "w": "hap",
+      "p": "x @ p"
+    },
+    {
+      "w": "hat",
+      "p": "x @ t"
+    },
+    {
+      "w": "hau",
+      "p": "x @ w"
+    },
+    {
+      "w": "hek",
+      "p": "x e k"
+    },
+    {
+      "w": "heng",
+      "p": "x e N"
+    },
+    {
+      "w": "heoi",
+      "p": "x 7 j"
+    },
+    {
+      "w": "hi",
+      "p": "x i j"
+    },
+    {
+      "w": "hik",
+      "p": "x i k"
+    },
+    {
+      "w": "him",
+      "p": "x i m"
+    },
+    {
+      "w": "hin",
+      "p": "x i n"
+    },
+    {
+      "w": "hing",
+      "p": "x i N"
+    },
+    {
+      "w": "hip",
+      "p": "x i p"
+    },
+    {
+      "w": "hit",
+      "p": "x i t"
+    },
+    {
+      "w": "hiu",
+      "p": "x i w"
+    },
+    {
+      "w": "ho",
+      "p": "x o"
+    },
+    {
+      "w": "hoe",
+      "p": "x 7"
+    },
+    {
+      "w": "hoek",
+      "p": "x 7 k"
+    },
+    {
+      "w": "hoeng",
+      "p": "x 7 N"
+    },
+    {
+      "w": "hoi",
+      "p": "x o j"
+    },
+    {
+      "w": "hok",
+      "p": "x o k"
+    },
+    {
+      "w": "hon",
+      "p": "x o n"
+    },
+    {
+      "w": "hong",
+      "p": "x o N"
+    },
+    {
+      "w": "hot",
+      "p": "x o t"
+    },
+    {
+      "w": "hou",
+      "p": "x o w"
+    },
+    {
+      "w": "hu",
+      "p": "x u"
+    },
+    {
+      "w": "hui",
+      "p": "x u j"
+    },
+    {
+      "w": "huk",
+      "p": "x u k"
+    },
+    {
+      "w": "hun",
+      "p": "x u n"
+    },
+    {
+      "w": "hung",
+      "p": "x u N"
+    },
+    {
+      "w": "hut",
+      "p": "x u t"
+    },
+    {
+      "w": "hyu",
+      "p": "x y"
+    },
+    {
+      "w": "hyun",
+      "p": "x y n"
+    },
+    {
+      "w": "hyut",
+      "p": "x y t"
+    },
+    {
+      "w": "i",
+      "p": "i"
+    },
+    {
+      "w": "ik",
+      "p": "i k"
+    },
+    {
+      "w": "im",
+      "p": "i m"
+    },
+    {
+      "w": "in",
+      "p": "i n"
+    },
+    {
+      "w": "ing",
+      "p": "i N"
+    },
+    {
+      "w": "ip",
+      "p": "i p"
+    },
+    {
+      "w": "it",
+      "p": "i t"
+    },
+    {
+      "w": "iu",
+      "p": "i w"
+    },
+    {
+      "w": "ka",
+      "p": "kh a"
+    },
+    {
+      "w": "kaai",
+      "p": "kh a j"
+    },
+    {
+      "w": "kaak",
+      "p": "kh a k"
+    },
+    {
+      "w": "kaam",
+      "p": "kh a m"
+    },
+    {
+      "w": "kaan",
+      "p": "kh a n"
+    },
+    {
+      "w": "kaang",
+      "p": "kh a N"
+    },
+    {
+      "w": "kaap",
+      "p": "kh a p"
+    },
+    {
+      "w": "kaat",
+      "p": "kh a t"
+    },
+    {
+      "w": "kaau",
+      "p": "kh a w"
+    },
+    {
+      "w": "kai",
+      "p": "kh @ j"
+    },
+    {
+      "w": "kak",
+      "p": "kh @ k"
+    },
+    {
+      "w": "kam",
+      "p": "kh @ m"
+    },
+    {
+      "w": "kan",
+      "p": "kh @ n"
+    },
+    {
+      "w": "kang",
+      "p": "kh @ N"
+    },
+    {
+      "w": "kap",
+      "p": "kh @ p"
+    },
+    {
+      "w": "kat",
+      "p": "kh @ t"
+    },
+    {
+      "w": "kau",
+      "p": "kh @ w"
+    },
+    {
+      "w": "ke",
+      "p": "kh e"
+    },
+    {
+      "w": "kei",
+      "p": "kh e j"
+    },
+    {
+      "w": "kek",
+      "p": "kh e k"
+    },
+    {
+      "w": "keng",
+      "p": "kh e N"
+    },
+    {
+      "w": "keoi",
+      "p": "kh 7 j"
+    },
+    {
+      "w": "ki",
+      "p": "kh i"
+    },
+    {
+      "w": "kik",
+      "p": "kh i k"
+    },
+    {
+      "w": "kim",
+      "p": "kh i m"
+    },
+    {
+      "w": "kin",
+      "p": "kh i n"
+    },
+    {
+      "w": "king",
+      "p": "kh i N"
+    },
+    {
+      "w": "kip",
+      "p": "kh i p"
+    },
+    {
+      "w": "kit",
+      "p": "kh i t"
+    },
+    {
+      "w": "kiu",
+      "p": "kh i w"
+    },
+    {
+      "w": "ko",
+      "p": "kh o"
+    },
+    {
+      "w": "koe",
+      "p": "kh 7"
+    },
+    {
+      "w": "koek",
+      "p": "kh 7 k"
+    },
+    {
+      "w": "koeng",
+      "p": "kh 7 N"
+    },
+    {
+      "w": "koi",
+      "p": "kh o j"
+    },
+    {
+      "w": "kok",
+      "p": "kh o k"
+    },
+    {
+      "w": "kon",
+      "p": "kh o n"
+    },
+    {
+      "w": "kong",
+      "p": "kh o N"
+    },
+    {
+      "w": "kot",
+      "p": "kh o t"
+    },
+    {
+      "w": "kou",
+      "p": "kh o w"
+    },
+    {
+      "w": "ku",
+      "p": "kh u"
+    },
+    {
+      "w": "kui",
+      "p": "kh u j"
+    },
+    {
+      "w": "kuk",
+      "p": "kh u k"
+    },
+    {
+      "w": "kun",
+      "p": "kh u n"
+    },
+    {
+      "w": "kung",
+      "p": "kh u N"
+    },
+    {
+      "w": "kut",
+      "p": "kh u t"
+    },
+    {
+      "w": "kwa",
+      "p": "kh w a"
+    },
+    {
+      "w": "kwaai",
+      "p": "kh w a j"
+    },
+    {
+      "w": "kwaak",
+      "p": "kh w a k"
+    },
+    {
+      "w": "kwaan",
+      "p": "kh w a n"
+    },
+    {
+      "w": "kwaang",
+      "p": "kh w a N"
+    },
+    {
+      "w": "kwaat",
+      "p": "kh w a t"
+    },
+    {
+      "w": "kwai",
+      "p": "kh w @ j"
+    },
+    {
+      "w": "kwak",
+      "p": "kh w @ k"
+    },
+    {
+      "w": "kwan",
+      "p": "kh w @ n"
+    },
+    {
+      "w": "kwang",
+      "p": "kh w @ N"
+    },
+    {
+      "w": "kwat",
+      "p": "kh w @ t"
+    },
+    {
+      "w": "kwik",
+      "p": "kh w i k"
+    },
+    {
+      "w": "kwing",
+      "p": "kh w i N"
+    },
+    {
+      "w": "kwo",
+      "p": "kh w o"
+    },
+    {
+      "w": "kwok",
+      "p": "kh w o k"
+    },
+    {
+      "w": "kwong",
+      "p": "kh w o N"
+    },
+    {
+      "w": "kyu",
+      "p": "kh y"
+    },
+    {
+      "w": "kyun",
+      "p": "kh y n"
+    },
+    {
+      "w": "kyut",
+      "p": "kh y t"
+    },
+    {
+      "w": "la",
+      "p": "l a"
+    },
+    {
+      "w": "laai",
+      "p": "l a j"
+    },
+    {
+      "w": "laak",
+      "p": "l a k"
+    },
+    {
+      "w": "laam",
+      "p": "l a m"
+    },
+    {
+      "w": "laan",
+      "p": "l a n"
+    },
+    {
+      "w": "laang",
+      "p": "l a N"
+    },
+    {
+      "w": "laap",
+      "p": "l a p"
+    },
+    {
+      "w": "laat",
+      "p": "l a t"
+    },
+    {
+      "w": "laau",
+      "p": "l a w"
+    },
+    {
+      "w": "lai",
+      "p": "l @ j"
+    },
+    {
+      "w": "lak",
+      "p": "l @ k"
+    },
+    {
+      "w": "lam",
+      "p": "l @ m"
+    },
+    {
+      "w": "lan",
+      "p": "l @ n"
+    },
+    {
+      "w": "lang",
+      "p": "l @ N"
+    },
+    {
+      "w": "lap",
+      "p": "l @ p"
+    },
+    {
+      "w": "lat",
+      "p": "l @ t"
+    },
+    {
+      "w": "lau",
+      "p": "l @ w"
+    },
+    {
+      "w": "lei",
+      "p": "l e j"
+    },
+    {
+      "w": "lek",
+      "p": "l e k"
+    },
+    {
+      "w": "leng",
+      "p": "l e N"
+    },
+    {
+      "w": "leoi",
+      "p": "l 7 j"
+    },
+    {
+      "w": "leon",
+      "p": "l 7 n"
+    },
+    {
+      "w": "leot",
+      "p": "l 7 t"
+    },
+    {
+      "w": "li",
+      "p": "l i"
+    },
+    {
+      "w": "lik",
+      "p": "l i k"
+    },
+    {
+      "w": "lim",
+      "p": "l i m"
+    },
+    {
+      "w": "lin",
+      "p": "l i n"
+    },
+    {
+      "w": "ling",
+      "p": "l i N"
+    },
+    {
+      "w": "lip",
+      "p": "l i p"
+    },
+    {
+      "w": "lit",
+      "p": "l i t"
+    },
+    {
+      "w": "liu",
+      "p": "l i w"
+    },
+    {
+      "w": "lo",
+      "p": "l o"
+    },
+    {
+      "w": "loek",
+      "p": "l 7 k"
+    },
+    {
+      "w": "loeng",
+      "p": "l 7 N"
+    },
+    {
+      "w": "loi",
+      "p": "l o j"
+    },
+    {
+      "w": "lok",
+      "p": "l o k"
+    },
+    {
+      "w": "long",
+      "p": "l o N"
+    },
+    {
+      "w": "lou",
+      "p": "l o w"
+    },
+    {
+      "w": "lu",
+      "p": "l u"
+    },
+    {
+      "w": "lui",
+      "p": "l u i"
+    },
+    {
+      "w": "luk",
+      "p": "l u k"
+    },
+    {
+      "w": "lung",
+      "p": "l u N"
+    },
+    {
+      "w": "lyu",
+      "p": "l y"
+    },
+    {
+      "w": "lyun",
+      "p": "l y n"
+    },
+    {
+      "w": "lyut",
+      "p": "l y t"
+    },
+    {
+      "w": "m",
+      "p": "m"
+    },
+    {
+      "w": "ma",
+      "p": "m a"
+    },
+    {
+      "w": "maai",
+      "p": "m a j"
+    },
+    {
+      "w": "maak",
+      "p": "m a k"
+    },
+    {
+      "w": "maan",
+      "p": "m a n"
+    },
+    {
+      "w": "maang",
+      "p": "m a N"
+    },
+    {
+      "w": "maat",
+      "p": "m a t"
+    },
+    {
+      "w": "maau",
+      "p": "m a w"
+    },
+    {
+      "w": "mai",
+      "p": "m @ j"
+    },
+    {
+      "w": "mak",
+      "p": "m @ k"
+    },
+    {
+      "w": "man",
+      "p": "m @ n"
+    },
+    {
+      "w": "mang",
+      "p": "m @ N"
+    },
+    {
+      "w": "mat",
+      "p": "m @ t"
+    },
+    {
+      "w": "mau",
+      "p": "m @ w"
+    },
+    {
+      "w": "me",
+      "p": "m e"
+    },
+    {
+      "w": "mei",
+      "p": "m e j"
+    },
+    {
+      "w": "mek",
+      "p": "m e k"
+    },
+    {
+      "w": "meng",
+      "p": "m e N"
+    },
+    {
+      "w": "mi",
+      "p": "m i"
+    },
+    {
+      "w": "mik",
+      "p": "m i k"
+    },
+    {
+      "w": "min",
+      "p": "m i n"
+    },
+    {
+      "w": "ming",
+      "p": "m i N"
+    },
+    {
+      "w": "mit",
+      "p": "m i t"
+    },
+    {
+      "w": "miu",
+      "p": "m i w"
+    },
+    {
+      "w": "mo",
+      "p": "m o"
+    },
+    {
+      "w": "moi",
+      "p": "m o j"
+    },
+    {
+      "w": "mok",
+      "p": "m o m"
+    },
+    {
+      "w": "mon",
+      "p": "m o n"
+    },
+    {
+      "w": "mong",
+      "p": "m o N"
+    },
+    {
+      "w": "mot",
+      "p": "m o m"
+    },
+    {
+      "w": "mou",
+      "p": "m o w"
+    },
+    {
+      "w": "mu",
+      "p": "m u"
+    },
+    {
+      "w": "mui",
+      "p": "m u j"
+    },
+    {
+      "w": "muk",
+      "p": "m u k"
+    },
+    {
+      "w": "mun",
+      "p": "m u n"
+    },
+    {
+      "w": "mung",
+      "p": "m u N"
+    },
+    {
+      "w": "mut",
+      "p": "m u t"
+    },
+    {
+      "w": "na",
+      "p": "n a"
+    },
+    {
+      "w": "naai",
+      "p": "n a j"
+    },
+    {
+      "w": "naak",
+      "p": "n a k"
+    },
+    {
+      "w": "naam",
+      "p": "n a m"
+    },
+    {
+      "w": "naan",
+      "p": "n a n"
+    },
+    {
+      "w": "naang",
+      "p": "n a N"
+    },
+    {
+      "w": "naap",
+      "p": "n a p"
+    },
+    {
+      "w": "naat",
+      "p": "n a t"
+    },
+    {
+      "w": "naau",
+      "p": "n a w"
+    },
+    {
+      "w": "nai",
+      "p": "n @ j"
+    },
+    {
+      "w": "nak",
+      "p": "n @ k"
+    },
+    {
+      "w": "nan",
+      "p": "n @ n"
+    },
+    {
+      "w": "nang",
+      "p": "n @ N"
+    },
+    {
+      "w": "nat",
+      "p": "n @ t"
+    },
+    {
+      "w": "nau",
+      "p": "n @ w"
+    },
+    {
+      "w": "nei",
+      "p": "n e j"
+    },
+    {
+      "w": "nek",
+      "p": "n e k"
+    },
+    {
+      "w": "neng",
+      "p": "n e N"
+    },
+    {
+      "w": "neoi",
+      "p": "n 7 j"
+    },
+    {
+      "w": "neon",
+      "p": "n 7 n"
+    },
+    {
+      "w": "neot",
+      "p": "n 7 t"
+    },
+    {
+      "w": "ng",
+      "p": "N"
+    },
+    {
+      "w": "nga",
+      "p": "N a"
+    },
+    {
+      "w": "ngaai",
+      "p": "N a j"
+    },
+    {
+      "w": "ngaak",
+      "p": "N a k"
+    },
+    {
+      "w": "ngaam",
+      "p": "N a m"
+    },
+    {
+      "w": "ngaan",
+      "p": "N a n"
+    },
+    {
+      "w": "ngaang",
+      "p": "N a N"
+    },
+    {
+      "w": "ngaap",
+      "p": "N a p"
+    },
+    {
+      "w": "ngaat",
+      "p": "N a t"
+    },
+    {
+      "w": "ngaau",
+      "p": "N a w"
+    },
+    {
+      "w": "ngai",
+      "p": "N @ j"
+    },
+    {
+      "w": "ngak",
+      "p": "N @ k"
+    },
+    {
+      "w": "ngam",
+      "p": "N @ m"
+    },
+    {
+      "w": "ngan",
+      "p": "N @ n"
+    },
+    {
+      "w": "ngang",
+      "p": "N @ N"
+    },
+    {
+      "w": "ngap",
+      "p": "N @ p"
+    },
+    {
+      "w": "ngat",
+      "p": "N @ t"
+    },
+    {
+      "w": "ngau",
+      "p": "N @ w"
+    },
+    {
+      "w": "ngo",
+      "p": "N o"
+    },
+    {
+      "w": "ngoe",
+      "p": "N 7"
+    },
+    {
+      "w": "ngoek",
+      "p": "N 7 k"
+    },
+    {
+      "w": "ngoeng",
+      "p": "N 7 N"
+    },
+    {
+      "w": "ngoi",
+      "p": "N o j"
+    },
+    {
+      "w": "ngok",
+      "p": "N o k"
+    },
+    {
+      "w": "ngon",
+      "p": "N o n"
+    },
+    {
+      "w": "ngong",
+      "p": "N o N"
+    },
+    {
+      "w": "ngot",
+      "p": "N o t"
+    },
+    {
+      "w": "ngou",
+      "p": "N o w"
+    },
+    {
+      "w": "nguk",
+      "p": "N u k"
+    },
+    {
+      "w": "ngung",
+      "p": "N u N"
+    },
+    {
+      "w": "ni",
+      "p": "n i"
+    },
+    {
+      "w": "nik",
+      "p": "n i k"
+    },
+    {
+      "w": "nim",
+      "p": "n i m"
+    },
+    {
+      "w": "nin",
+      "p": "n i n"
+    },
+    {
+      "w": "ning",
+      "p": "n i N"
+    },
+    {
+      "w": "nip",
+      "p": "n i p"
+    },
+    {
+      "w": "nit",
+      "p": "n i t"
+    },
+    {
+      "w": "niu",
+      "p": "n i w"
+    },
+    {
+      "w": "no",
+      "p": "n o"
+    },
+    {
+      "w": "noek",
+      "p": "n 7 k"
+    },
+    {
+      "w": "noeng",
+      "p": "n 7 N"
+    },
+    {
+      "w": "noi",
+      "p": "n o j"
+    },
+    {
+      "w": "nok",
+      "p": "n o k"
+    },
+    {
+      "w": "nong",
+      "p": "n o N"
+    },
+    {
+      "w": "nou",
+      "p": "n o w"
+    },
+    {
+      "w": "nu",
+      "p": "n u"
+    },
+    {
+      "w": "nui",
+      "p": "n u i"
+    },
+    {
+      "w": "nuk",
+      "p": "n u k"
+    },
+    {
+      "w": "nung",
+      "p": "n u N"
+    },
+    {
+      "w": "nyu",
+      "p": "n y"
+    },
+    {
+      "w": "nyun",
+      "p": "n y n"
+    },
+    {
+      "w": "nyut",
+      "p": "n y t"
+    },
+    {
+      "w": "o",
+      "p": "o"
+    },
+    {
+      "w": "oe",
+      "p": "7"
+    },
+    {
+      "w": "oek",
+      "p": "7 k"
+    },
+    {
+      "w": "oeng",
+      "p": "7 N"
+    },
+    {
+      "w": "oi",
+      "p": "o j"
+    },
+    {
+      "w": "ok",
+      "p": "o k"
+    },
+    {
+      "w": "om",
+      "p": "o m"
+    },
+    {
+      "w": "on",
+      "p": "o n"
+    },
+    {
+      "w": "ong",
+      "p": "o N"
+    },
+    {
+      "w": "op",
+      "p": "o p"
+    },
+    {
+      "w": "ot",
+      "p": "o t"
+    },
+    {
+      "w": "ou",
+      "p": "o w"
+    },
+    {
+      "w": "pa",
+      "p": "ph a"
+    },
+    {
+      "w": "paai",
+      "p": "ph a j"
+    },
+    {
+      "w": "paak",
+      "p": "ph a k"
+    },
+    {
+      "w": "paan",
+      "p": "ph a n"
+    },
+    {
+      "w": "paang",
+      "p": "ph a N"
+    },
+    {
+      "w": "paat",
+      "p": "ph a t"
+    },
+    {
+      "w": "paau",
+      "p": "ph a w"
+    },
+    {
+      "w": "pai",
+      "p": "ph @ j"
+    },
+    {
+      "w": "pak",
+      "p": "ph @ k"
+    },
+    {
+      "w": "pan",
+      "p": "ph @ n"
+    },
+    {
+      "w": "pang",
+      "p": "ph @ N"
+    },
+    {
+      "w": "pat",
+      "p": "ph @ t"
+    },
+    {
+      "w": "pau",
+      "p": "ph @ w"
+    },
+    {
+      "w": "pei",
+      "p": "ph e j"
+    },
+    {
+      "w": "pek",
+      "p": "ph e k"
+    },
+    {
+      "w": "peng",
+      "p": "ph e N"
+    },
+    {
+      "w": "pi",
+      "p": "ph i"
+    },
+    {
+      "w": "pik",
+      "p": "ph i k"
+    },
+    {
+      "w": "pin",
+      "p": "ph i n"
+    },
+    {
+      "w": "ping",
+      "p": "ph i N"
+    },
+    {
+      "w": "pit",
+      "p": "ph i t"
+    },
+    {
+      "w": "piu",
+      "p": "ph i w"
+    },
+    {
+      "w": "po",
+      "p": "ph o"
+    },
+    {
+      "w": "poi",
+      "p": "ph o j"
+    },
+    {
+      "w": "pok",
+      "p": "ph o k"
+    },
+    {
+      "w": "pon",
+      "p": "ph o n"
+    },
+    {
+      "w": "pong",
+      "p": "ph o N"
+    },
+    {
+      "w": "pot",
+      "p": "ph o t"
+    },
+    {
+      "w": "pou",
+      "p": "ph o w"
+    },
+    {
+      "w": "pu",
+      "p": "ph u"
+    },
+    {
+      "w": "pui",
+      "p": "ph u j"
+    },
+    {
+      "w": "puk",
+      "p": "ph u k"
+    },
+    {
+      "w": "pun",
+      "p": "ph u n"
+    },
+    {
+      "w": "pung",
+      "p": "ph u N"
+    },
+    {
+      "w": "put",
+      "p": "ph u t"
+    },
+    {
+      "w": "sa",
+      "p": "s a"
+    },
+    {
+      "w": "saai",
+      "p": "s a j"
+    },
+    {
+      "w": "saak",
+      "p": "s a k"
+    },
+    {
+      "w": "saam",
+      "p": "s a m"
+    },
+    {
+      "w": "saan",
+      "p": "s a n"
+    },
+    {
+      "w": "saang",
+      "p": "s a N"
+    },
+    {
+      "w": "saap",
+      "p": "s a p"
+    },
+    {
+      "w": "saat",
+      "p": "s a t"
+    },
+    {
+      "w": "saau",
+      "p": "s a w"
+    },
+    {
+      "w": "sai",
+      "p": "s @ j"
+    },
+    {
+      "w": "sak",
+      "p": "s @ k"
+    },
+    {
+      "w": "sam",
+      "p": "s @ m"
+    },
+    {
+      "w": "san",
+      "p": "s @ n"
+    },
+    {
+      "w": "sang",
+      "p": "s @ N"
+    },
+    {
+      "w": "sap",
+      "p": "s @ p"
+    },
+    {
+      "w": "sat",
+      "p": "s @ t"
+    },
+    {
+      "w": "sau",
+      "p": "s @ w"
+    },
+    {
+      "w": "se",
+      "p": "s e"
+    },
+    {
+      "w": "sei",
+      "p": "s e j"
+    },
+    {
+      "w": "sek",
+      "p": "s e k"
+    },
+    {
+      "w": "seng",
+      "p": "s e N"
+    },
+    {
+      "w": "seoi",
+      "p": "s 7 j"
+    },
+    {
+      "w": "seon",
+      "p": "s 7 n"
+    },
+    {
+      "w": "seot",
+      "p": "s 7 t"
+    },
+    {
+      "w": "sha",
+      "p": "s` a"
+    },
+    {
+      "w": "shaai",
+      "p": "s` a j"
+    },
+    {
+      "w": "shaak",
+      "p": "s` a k"
+    },
+    {
+      "w": "shaam",
+      "p": "s` a m"
+    },
+    {
+      "w": "shaan",
+      "p": "s` a n"
+    },
+    {
+      "w": "shaang",
+      "p": "s` a N"
+    },
+    {
+      "w": "shaap",
+      "p": "s` a p"
+    },
+    {
+      "w": "shaat",
+      "p": "s` a t"
+    },
+    {
+      "w": "shaau",
+      "p": "s` a w"
+    },
+    {
+      "w": "shai",
+      "p": "s` @ j"
+    },
+    {
+      "w": "shak",
+      "p": "s` @ k"
+    },
+    {
+      "w": "sham",
+      "p": "s` @ m"
+    },
+    {
+      "w": "shan",
+      "p": "s` @ n"
+    },
+    {
+      "w": "shang",
+      "p": "s` @ N"
+    },
+    {
+      "w": "shap",
+      "p": "s` @ p"
+    },
+    {
+      "w": "shat",
+      "p": "s` @ t"
+    },
+    {
+      "w": "shau",
+      "p": "s` @ w"
+    },
+    {
+      "w": "she",
+      "p": "s` e"
+    },
+    {
+      "w": "shei",
+      "p": "s` e j"
+    },
+    {
+      "w": "shek",
+      "p": "s` e k"
+    },
+    {
+      "w": "sheng",
+      "p": "s` e N"
+    },
+    {
+      "w": "sheoi",
+      "p": "s` 7 j"
+    },
+    {
+      "w": "sheon",
+      "p": "s` 7 n"
+    },
+    {
+      "w": "sheot",
+      "p": "s` 7 t"
+    },
+    {
+      "w": "shi",
+      "p": "s` i"
+    },
+    {
+      "w": "shik",
+      "p": "s` i k"
+    },
+    {
+      "w": "shim",
+      "p": "s` i m"
+    },
+    {
+      "w": "shin",
+      "p": "s` i n"
+    },
+    {
+      "w": "shing",
+      "p": "s` i N"
+    },
+    {
+      "w": "ship",
+      "p": "s` i p"
+    },
+    {
+      "w": "shit",
+      "p": "s` i t"
+    },
+    {
+      "w": "shiu",
+      "p": "s` i w"
+    },
+    {
+      "w": "shoe",
+      "p": "s` 7"
+    },
+    {
+      "w": "shoek",
+      "p": "s` 7 k"
+    },
+    {
+      "w": "shoeng",
+      "p": "s` 7 N"
+    },
+    {
+      "w": "shok",
+      "p": "s` o k"
+    },
+    {
+      "w": "shong",
+      "p": "s` o N"
+    },
+    {
+      "w": "shuk",
+      "p": "s` u k"
+    },
+    {
+      "w": "shung",
+      "p": "s` u N"
+    },
+    {
+      "w": "shyu",
+      "p": "s` y"
+    },
+    {
+      "w": "shyun",
+      "p": "s` y n"
+    },
+    {
+      "w": "shyut",
+      "p": "s` y t"
+    },
+    {
+      "w": "si",
+      "p": "s i"
+    },
+    {
+      "w": "sik",
+      "p": "s i k"
+    },
+    {
+      "w": "sim",
+      "p": "s i m"
+    },
+    {
+      "w": "sin",
+      "p": "s i n"
+    },
+    {
+      "w": "sing",
+      "p": "s i N"
+    },
+    {
+      "w": "sip",
+      "p": "s i p"
+    },
+    {
+      "w": "sit",
+      "p": "s i t"
+    },
+    {
+      "w": "siu",
+      "p": "s i w"
+    },
+    {
+      "w": "so",
+      "p": "s o"
+    },
+    {
+      "w": "soe",
+      "p": "s 7"
+    },
+    {
+      "w": "soek",
+      "p": "s 7 k"
+    },
+    {
+      "w": "soeng",
+      "p": "s 7 N"
+    },
+    {
+      "w": "soi",
+      "p": "s o j"
+    },
+    {
+      "w": "sok",
+      "p": "s o k"
+    },
+    {
+      "w": "son",
+      "p": "s o n"
+    },
+    {
+      "w": "song",
+      "p": "s o N"
+    },
+    {
+      "w": "sot",
+      "p": "s o t"
+    },
+    {
+      "w": "sou",
+      "p": "s o w"
+    },
+    {
+      "w": "su",
+      "p": "s u"
+    },
+    {
+      "w": "sui",
+      "p": "s u j"
+    },
+    {
+      "w": "suk",
+      "p": "s u k"
+    },
+    {
+      "w": "sung",
+      "p": "s u N"
+    },
+    {
+      "w": "syu",
+      "p": "s y"
+    },
+    {
+      "w": "syun",
+      "p": "s y n"
+    },
+    {
+      "w": "syut",
+      "p": "s y t"
+    },
+    {
+      "w": "ta",
+      "p": "th a"
+    },
+    {
+      "w": "taai",
+      "p": "th a j"
+    },
+    {
+      "w": "taak",
+      "p": "th a k"
+    },
+    {
+      "w": "taam",
+      "p": "th a m"
+    },
+    {
+      "w": "taan",
+      "p": "th a n"
+    },
+    {
+      "w": "taang",
+      "p": "th a N"
+    },
+    {
+      "w": "taap",
+      "p": "th a p"
+    },
+    {
+      "w": "taat",
+      "p": "th a t"
+    },
+    {
+      "w": "taau",
+      "p": "th a w"
+    },
+    {
+      "w": "tai",
+      "p": "th @ j"
+    },
+    {
+      "w": "tak",
+      "p": "th @ k"
+    },
+    {
+      "w": "tan",
+      "p": "th @ n"
+    },
+    {
+      "w": "tang",
+      "p": "th @ N"
+    },
+    {
+      "w": "tat",
+      "p": "th @ t"
+    },
+    {
+      "w": "tau",
+      "p": "th @ w"
+    },
+    {
+      "w": "tei",
+      "p": "th e j"
+    },
+    {
+      "w": "tek",
+      "p": "th e k"
+    },
+    {
+      "w": "teng",
+      "p": "th e N"
+    },
+    {
+      "w": "teoi",
+      "p": "th 7 j"
+    },
+    {
+      "w": "teon",
+      "p": "th 7 n"
+    },
+    {
+      "w": "teot",
+      "p": "th 7 t"
+    },
+    {
+      "w": "ti",
+      "p": "th i"
+    },
+    {
+      "w": "tik",
+      "p": "th i k"
+    },
+    {
+      "w": "tim",
+      "p": "th i m"
+    },
+    {
+      "w": "tin",
+      "p": "th i n"
+    },
+    {
+      "w": "ting",
+      "p": "th i N"
+    },
+    {
+      "w": "tip",
+      "p": "th i p"
+    },
+    {
+      "w": "tit",
+      "p": "th i t"
+    },
+    {
+      "w": "tiu",
+      "p": "th i w"
+    },
+    {
+      "w": "to",
+      "p": "th o"
+    },
+    {
+      "w": "toi",
+      "p": "th o j"
+    },
+    {
+      "w": "tok",
+      "p": "th o k"
+    },
+    {
+      "w": "tong",
+      "p": "th o N"
+    },
+    {
+      "w": "tou",
+      "p": "th o w"
+    },
+    {
+      "w": "tu",
+      "p": "th u"
+    },
+    {
+      "w": "tui",
+      "p": "th u i"
+    },
+    {
+      "w": "tuk",
+      "p": "th u k"
+    },
+    {
+      "w": "tung",
+      "p": "th u N"
+    },
+    {
+      "w": "tyun",
+      "p": "th y n"
+    },
+    {
+      "w": "tyut",
+      "p": "th y t"
+    },
+    {
+      "w": "u",
+      "p": "u"
+    },
+    {
+      "w": "ui",
+      "p": "u j"
+    },
+    {
+      "w": "uk",
+      "p": "u k"
+    },
+    {
+      "w": "un",
+      "p": "u n"
+    },
+    {
+      "w": "ung",
+      "p": "u N"
+    },
+    {
+      "w": "ut",
+      "p": "u t"
+    },
+    {
+      "w": "wa",
+      "p": "w a"
+    },
+    {
+      "w": "waai",
+      "p": "w a j"
+    },
+    {
+      "w": "waak",
+      "p": "w a k"
+    },
+    {
+      "w": "waan",
+      "p": "w a n"
+    },
+    {
+      "w": "waang",
+      "p": "w a N"
+    },
+    {
+      "w": "waat",
+      "p": "w a t"
+    },
+    {
+      "w": "wai",
+      "p": "w @ j"
+    },
+    {
+      "w": "wak",
+      "p": "w @ k"
+    },
+    {
+      "w": "wan",
+      "p": "w @ n"
+    },
+    {
+      "w": "wang",
+      "p": "w @ N"
+    },
+    {
+      "w": "wat",
+      "p": "w @ t"
+    },
+    {
+      "w": "wik",
+      "p": "w i k"
+    },
+    {
+      "w": "wing",
+      "p": "w i N"
+    },
+    {
+      "w": "wo",
+      "p": "w o"
+    },
+    {
+      "w": "wok",
+      "p": "w o k"
+    },
+    {
+      "w": "wong",
+      "p": "w o N"
+    },
+    {
+      "w": "wu",
+      "p": "u"
+    },
+    {
+      "w": "wui",
+      "p": "u j"
+    },
+    {
+      "w": "wun",
+      "p": "u n"
+    },
+    {
+      "w": "wut",
+      "p": "u t"
+    },
+    {
+      "w": "ya",
+      "p": "j a"
+    },
+    {
+      "w": "yaai",
+      "p": "j a j"
+    },
+    {
+      "w": "yaak",
+      "p": "j a k"
+    },
+    {
+      "w": "yaam",
+      "p": "j a m"
+    },
+    {
+      "w": "yaan",
+      "p": "j a n"
+    },
+    {
+      "w": "yaang",
+      "p": "j a N"
+    },
+    {
+      "w": "yaap",
+      "p": "j a p"
+    },
+    {
+      "w": "yaat",
+      "p": "j a t"
+    },
+    {
+      "w": "yaau",
+      "p": "j a w"
+    },
+    {
+      "w": "yak",
+      "p": "j @ k"
+    },
+    {
+      "w": "yam",
+      "p": "j @ m"
+    },
+    {
+      "w": "yan",
+      "p": "j @ n"
+    },
+    {
+      "w": "yang",
+      "p": "j @ N"
+    },
+    {
+      "w": "yap",
+      "p": "j @ p"
+    },
+    {
+      "w": "yat",
+      "p": "j @ t"
+    },
+    {
+      "w": "yau",
+      "p": "j @ w"
+    },
+    {
+      "w": "ye",
+      "p": "j e"
+    },
+    {
+      "w": "yi",
+      "p": "j i"
+    },
+    {
+      "w": "yik",
+      "p": "j i k"
+    },
+    {
+      "w": "yim",
+      "p": "j i m"
+    },
+    {
+      "w": "yin",
+      "p": "j i n"
+    },
+    {
+      "w": "ying",
+      "p": "j i N"
+    },
+    {
+      "w": "yip",
+      "p": "j i p"
+    },
+    {
+      "w": "yit",
+      "p": "j i t"
+    },
+    {
+      "w": "yiu",
+      "p": "j i w"
+    },
+    {
+      "w": "yu",
+      "p": "y"
+    },
+    {
+      "w": "yui",
+      "p": "j u j"
+    },
+    {
+      "w": "yuk",
+      "p": "j u k"
+    },
+    {
+      "w": "yun",
+      "p": "y n"
+    },
+    {
+      "w": "yung",
+      "p": "j u N"
+    },
+    {
+      "w": "yut",
+      "p": "y t"
+    },
+    {
+      "w": "za",
+      "p": "ts a"
+    },
+    {
+      "w": "zaai",
+      "p": "ts a j"
+    },
+    {
+      "w": "zaak",
+      "p": "ts a k"
+    },
+    {
+      "w": "zaam",
+      "p": "ts a m"
+    },
+    {
+      "w": "zaan",
+      "p": "ts a n"
+    },
+    {
+      "w": "zaang",
+      "p": "ts a N"
+    },
+    {
+      "w": "zaap",
+      "p": "ts a p"
+    },
+    {
+      "w": "zaat",
+      "p": "ts a t"
+    },
+    {
+      "w": "zaau",
+      "p": "ts a w"
+    },
+    {
+      "w": "zai",
+      "p": "ts @ j"
+    },
+    {
+      "w": "zak",
+      "p": "ts @ k"
+    },
+    {
+      "w": "zam",
+      "p": "ts @ m"
+    },
+    {
+      "w": "zan",
+      "p": "ts @ n"
+    },
+    {
+      "w": "zang",
+      "p": "ts @ N"
+    },
+    {
+      "w": "zap",
+      "p": "ts @ p"
+    },
+    {
+      "w": "zat",
+      "p": "ts @ t"
+    },
+    {
+      "w": "zau",
+      "p": "ts @ w"
+    },
+    {
+      "w": "ze",
+      "p": "ts e"
+    },
+    {
+      "w": "zei",
+      "p": "ts e j"
+    },
+    {
+      "w": "zek",
+      "p": "ts e k"
+    },
+    {
+      "w": "zeng",
+      "p": "ts e N"
+    },
+    {
+      "w": "zeoi",
+      "p": "ts 7 j"
+    },
+    {
+      "w": "zeon",
+      "p": "ts 7 n"
+    },
+    {
+      "w": "zeot",
+      "p": "ts 7 t"
+    },
+    {
+      "w": "zha",
+      "p": "ts` a"
+    },
+    {
+      "w": "zhaai",
+      "p": "ts` a j"
+    },
+    {
+      "w": "zhaak",
+      "p": "ts` a k"
+    },
+    {
+      "w": "zhaam",
+      "p": "ts` a m"
+    },
+    {
+      "w": "zhaan",
+      "p": "ts` a n"
+    },
+    {
+      "w": "zhaang",
+      "p": "ts` a N"
+    },
+    {
+      "w": "zhaap",
+      "p": "ts` a p"
+    },
+    {
+      "w": "zhaat",
+      "p": "ts` a t"
+    },
+    {
+      "w": "zhaau",
+      "p": "ts` a w"
+    },
+    {
+      "w": "zhai",
+      "p": "ts` @ j"
+    },
+    {
+      "w": "zhak",
+      "p": "ts` @ k"
+    },
+    {
+      "w": "zham",
+      "p": "ts` @ m"
+    },
+    {
+      "w": "zhan",
+      "p": "ts` @ n"
+    },
+    {
+      "w": "zhang",
+      "p": "ts` @ N"
+    },
+    {
+      "w": "zhap",
+      "p": "ts` @ p"
+    },
+    {
+      "w": "zhat",
+      "p": "ts` @ t"
+    },
+    {
+      "w": "zhau",
+      "p": "ts` @ w"
+    },
+    {
+      "w": "zhe",
+      "p": "ts` e"
+    },
+    {
+      "w": "zhei",
+      "p": "ts` e j"
+    },
+    {
+      "w": "zhek",
+      "p": "ts` e k"
+    },
+    {
+      "w": "zheng",
+      "p": "ts` e N"
+    },
+    {
+      "w": "zheoi",
+      "p": "ts` 7 j"
+    },
+    {
+      "w": "zheon",
+      "p": "ts` 7 n"
+    },
+    {
+      "w": "zheot",
+      "p": "ts` 7 t"
+    },
+    {
+      "w": "zhi",
+      "p": "ts` i"
+    },
+    {
+      "w": "zhik",
+      "p": "ts` i k"
+    },
+    {
+      "w": "zhim",
+      "p": "ts` i m"
+    },
+    {
+      "w": "zhin",
+      "p": "ts` i n"
+    },
+    {
+      "w": "zhing",
+      "p": "ts` i N"
+    },
+    {
+      "w": "zhip",
+      "p": "ts` i p"
+    },
+    {
+      "w": "zhit",
+      "p": "ts` i t"
+    },
+    {
+      "w": "zhiu",
+      "p": "ts` i w"
+    },
+    {
+      "w": "zhoe",
+      "p": "ts` 7"
+    },
+    {
+      "w": "zhoek",
+      "p": "ts` 7 k"
+    },
+    {
+      "w": "zhoeng",
+      "p": "ts` 7 N"
+    },
+    {
+      "w": "zhok",
+      "p": "ts` o k"
+    },
+    {
+      "w": "zhong",
+      "p": "ts` o N"
+    },
+    {
+      "w": "zhuk",
+      "p": "ts` u k"
+    },
+    {
+      "w": "zhung",
+      "p": "ts` u N"
+    },
+    {
+      "w": "zhyu",
+      "p": "ts` y"
+    },
+    {
+      "w": "zhyun",
+      "p": "ts` y n"
+    },
+    {
+      "w": "zhyut",
+      "p": "ts` y t"
+    },
+    {
+      "w": "zi",
+      "p": "ts i"
+    },
+    {
+      "w": "zik",
+      "p": "ts i k"
+    },
+    {
+      "w": "zim",
+      "p": "ts i m"
+    },
+    {
+      "w": "zin",
+      "p": "ts i n"
+    },
+    {
+      "w": "zing",
+      "p": "ts i N"
+    },
+    {
+      "w": "zip",
+      "p": "ts i p"
+    },
+    {
+      "w": "zit",
+      "p": "ts i t"
+    },
+    {
+      "w": "ziu",
+      "p": "ts i w"
+    },
+    {
+      "w": "zo",
+      "p": "ts o"
+    },
+    {
+      "w": "zoe",
+      "p": "ts 7"
+    },
+    {
+      "w": "zoek",
+      "p": "ts 7 k"
+    },
+    {
+      "w": "zoeng",
+      "p": "ts 7 N"
+    },
+    {
+      "w": "zoi",
+      "p": "ts o j"
+    },
+    {
+      "w": "zok",
+      "p": "ts o k"
+    },
+    {
+      "w": "zon",
+      "p": "ts o n"
+    },
+    {
+      "w": "zong",
+      "p": "ts o N"
+    },
+    {
+      "w": "zot",
+      "p": "ts o t"
+    },
+    {
+      "w": "zou",
+      "p": "ts o w"
+    },
+    {
+      "w": "zu",
+      "p": "ts u"
+    },
+    {
+      "w": "zui",
+      "p": "ts u j"
+    },
+    {
+      "w": "zuk",
+      "p": "ts u k"
+    },
+    {
+      "w": "zung",
+      "p": "ts u N"
+    },
+    {
+      "w": "zyu",
+      "p": "ts y"
+    },
+    {
+      "w": "zyun",
+      "p": "ts y n"
+    },
+    {
+      "w": "zyut",
+      "p": "ts y t"
+    }
+  ]
+}
