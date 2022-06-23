@@ -8,7 +8,7 @@ This repository is aimed at extending dialectal support for Chinese voicebanks o
 2. SVS不區分日語ha、he、ho（は、へ、ほ）的h（/h/）與hi（ひ）的h（/ç/）；
 3. SVS誤將中文io并入iao；
 4. SVS中文音素方案難以獨立理解、記憶，不利於跨語種調教。
-5. 自1958年出版以來，中華人民共和國《[漢語拼音方案](https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3)》從未將漢語拼音與國際音標音值（表徵爲X-SAMPA）對應，且現有對應關係存在爭議。
+5. 自1958年出版以來，中華人民共和國《[漢語拼音方案](https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3)》從未將漢語拼音與國際音標音值（表徵爲X-SAMPA）對應，且現有對應關係頗存爭議。
 
 1. SVS does not tell initial L's (`l0` in VOCALOID) apart from the final L's (`l` in VOCALOID), aspired explosives apart from unaspired ones (distinguished in VOCALOID) in English;
 2. SVS does not distinguish the H's in *ha*, *he*, *ho* (all /h/) and *hi* (/ç/);
@@ -108,10 +108,10 @@ sil silence -> sil
 |#|拼音 Pinyin|現行 Current (X-SAMPA)|建議 Suggestion |備注 Note
 |-|-|-|-|-|
 |24|a|**a**|**a**
-|25|ia|**ia**|**y a**|*介音應拆分 should be split as noticed*
-|26|ua|**ua**|**w a**|*介音應拆分 should be split as noticed*
+|25|ia|**ia**|y a|*介音應拆分 should be split as noticed*
+|26|ua|**ua**|w a|*介音應拆分 should be split as noticed*
 |27|o|**o**|**o**
-|28|uo|**uo**|**w o**|*介音應拆分 should be split as noticed*
+|28|uo|**uo**|w o|*介音應拆分 should be split as noticed*
 |29|e|**7**|**e**
 |30|ie|**ie**|y **eh**|*介音應拆分 should be split as noticed*
 |31|üe|**yE**|yu eh|*介音應拆分；真實發音仍是 should be split and read as* /ɥe/ `H e`
@@ -170,8 +170,9 @@ sil silence -> sil
 ### 總計 Total
 |拼音 Pinyin|現行 Current (X-SAMPA)|建議 Suggestion
 |-|-|-
-|61|55|38
+|61|55|34
 ## Credits 致謝
 - [華侃如 先生 Sir Kan-ru "Sleepwalking" Hua](https://github.com/sleepwalking)
 - [李迪克 先生 Sir Di-ke "Ddickky" Li](https://weibo.com/ddickky)
 - [Dreamtonics](https://dreamtonics.com) [Github](https://github.com/dreamtonics)
+- [平行四界](https://weibo.com/quadimension) [Quadimension](https://twitter.com/quadimension)
