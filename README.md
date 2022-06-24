@@ -79,7 +79,7 @@ sil silence -> sil
 ```
 `*` 擬淘汰 To be eliminated
 ### 聲母 Initials
-|#|拼音 Pinyin|現行 Current (X-SAMPA)|建議 Suggestion |備注 Note
+|#|拼音 Pinyin|現行 Current|建議 Suggestion |備注 Note
 |-|-|-|-|-|
 |1|b|**p**|**b**|*多數人讀成 mostly read as* /b/ `b`
 |2|p|**ph**|**p**|
@@ -105,7 +105,7 @@ sil silence -> sil
 |22|y|**j**|**y**
 |23|w|**w**|**w**
 ### 韻母 Finals
-|#|拼音 Pinyin|現行 Current (X-SAMPA)|建議 Suggestion |備注 Note
+|#|拼音 Pinyin|現行 Current|建議 Suggestion |備注 Note
 |-|-|-|-|-|
 |24|a|**a**|**a**
 |25|ia|**ia**|y a|*介音應拆分 should be split as noticed*
@@ -147,7 +147,7 @@ sil silence -> sil
 |61|er|a **r&#92;&#96;**|ex **rr**|*正確發音是 actually read as* /ɚ/~/əɻ/ ``@` `` ~ ``@ r\` ``
 ## 粵語方面列表 List for Cantonese
 ### 聲母 Initials
-与華語對應相同（除`h`爲/h/而不是/x/；華語母語者也常以/h/代/x/）
+与華語對應相同（除`h`爲/h/而不是/x/；華語母語者也常以/h/代/x/），斜體見於《分韻撮要》及港鐵站名。
 |1|2|3|4|5|
 |-|-|-|-|-|
 |b|p|m|f|-|
@@ -168,7 +168,7 @@ sil silence -> sil
 |`7`|oe|eoi|-|-|eon|oeng|-|eot|oek|
 |`y`|yu|-|-|-|yun|-|-|yut|-
 ### 總計 Total
-|拼音 Pinyin|現行 Current (X-SAMPA)|建議 Suggestion
+|拼音 Pinyin|現行 Current|建議 Suggestion
 |-|-|-
 |61|55|34
 ## Credits 致謝
