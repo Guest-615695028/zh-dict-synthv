@@ -75,6 +75,7 @@ j   semivowel -> y
 pau silence *
 sil silence -> sil
 ```
+
 `*` 擬淘汰 To be eliminated
 ### 聲母 Initials
 |#|拼音 Pinyin|現行 Current|建議 Suggestion |備注 Note
@@ -109,23 +110,25 @@ sil silence -> sil
 |25|ia|**ia**|y a|*介音應拆分 should be split as noticed*
 |26|ua|**ua**|w a|*介音應拆分 should be split as noticed*
 |27|o|**o**|**o**
-|28|uo|**uo**|w o|*介音應拆分 should be split as noticed*
-|29|e|**7**|**e**
-|30|ie|**ie**|y **eh**|*介音應拆分 should be split as noticed*
-|31|üe|**yE**|yu eh|*介音應拆分；真實發音仍是 should be split and read as* /ɥe/ `H e`
-|32|i|**i**|**i**
-|33|(zh/ch/sh/r)i|**i&#96;**|**ih**|*不應與下一音素區分 Not necessarily distinguished with below*
-|34|(z/c/s)i|**i&#92;**|ih
-|35|u|**u**|**u**
-|36|ü|**y**|**yu**
-|37|ai|a **:\i**|a y
-|38|uai|ua :\i|u a y
+|28|io|**iAU**|y o|
+|29|uo|**uo**|w o|*介音應拆分 should be split as noticed*
+|30|e|**7**|**e**
+|31|ie|**ie**|y **eh**|*介音應拆分 should be split as noticed*
+|32|üe|**yE**|yu eh|*介音應拆分；真實發音仍是 should be split and read as* /ɥe/ `H e`
+|33|i|**i**|**i**
+|34|(zh/ch/sh/r)i|**i&#96;**|**ih**|*不應與下一音素區分 Not necessarily distinguished with below*
+|35|(z/c/s)i|**i&#92;**|ih
+|36|u|**u**|**u**
+|37|ü|**y**|**yu**
+|38|ai|a **:\i**|a y
+|39|iai|ia :\i|y a y
+|38|uai|ua :\i|w a y
 |39|ei|**e** :\i|eh y
 |40|ui|**ue** :\i|u y|*貼近真實發音 cater to authentic pronunciation* /uɪ/
 |41|ao|**AU**|a w|*尾音應拆分；貼近真實發音 split and cater to authentic pronunciation* /aʊ/
-|42|iao|**iAU**|y a w|*介尾音應拆分 should be split as noticed*
+|42|iao|iAU|y a w|*介尾音應拆分 should be split as noticed*
 |43|ou|**@U**|o w|*尾音應拆分；貼近真實發音 split and cater to authentic pronunciation* /oʊ/
-|44|iu|**i@U**|y o w|*貼近真實發音 cater to authentic pronunciation* /iʊ/
+|44|iu|**i@U**|i w|*貼近真實發音 cater to authentic pronunciation* /iʊ/
 |45|an|a **:n**|a n
 |46|ian|**iE** :n|y eh n|*介音應拆分；真實發音仍是 actually read as* /ien/ `j e n`
 |47|uan|ua :n|w a n|介音應拆分
@@ -161,13 +164,13 @@ This repository provides and only provides legal syllabic combinations.
 |-|-|-|-|-|-|-|-|-|-|
 |`a`|aa/a|aai|aau|aam|aan|aang|aap|aat|aak|
 |`@`|-|ai|au|am|an|ang|ap|at|ak|
-|`e`|e|ei|[*eu*][1]|[*em*][1]|[*en*][1]|eng|[*ep*][1]|[*et*][1]|ek|
+|`e`|e|ei|-|-|-|eng|-|-|ek|
 |`i`|i|-|iu|im|in|ing|ip|it|ik|
 |`o`|o|oi|ou|*om*|on|ong|*op*|ot|ok|
 |`u`|u|ui|-|-|un|ung|-|ut|uk|
 |`7`|oe|eoi|-|-|eon|oeng|-|eot|oek|
 |`y`|yu|-|-|-|yun|-|-|yut|-
-[1]: colloqual only
+
 ### 總計 Total
 |拼音 Pinyin|現行 Current|建議 Suggestion
 |-|-|-
