@@ -146,6 +146,10 @@ sil silence -> sil
 |59|ong|**U** N|o ng|*常讀作 normally read as* /oŋ/ `o N`
 |60|iong|**iU** N|y o ng|*介音應拆分 should be split as noticed*
 |61|er|a **r&#92;&#96;**|ex **rr**|*正確發音是 actually read as* /ɚ/~/əɻ/ ``@` `` ~ ``@ r\` ``
+### 總計 Total
+|拼音 Pinyin|現行 Current|建議 Suggestion
+|-|-|-
+|61|55|34
 ## 粵語方面列表 List for Cantonese
 提供且僅提供合法音節組合。  
 This repository provides and only provides legal syllabic combinations.
@@ -170,11 +174,8 @@ This repository provides and only provides legal syllabic combinations.
 |`u`|u|ui|-|-|un|ung|-|ut|uk|
 |`7`|oe|eoi|-|-|eon|oeng|-|eot|oek|
 |`y`|yu|-|-|-|yun|-|-|yut|-
-
-### 總計 Total
-|拼音 Pinyin|現行 Current|建議 Suggestion
-|-|-|-
-|61|55|34
+## Examples 案例
+1. 《七子之歌》之《香港》《九龍島》（慶祝香港回歸25周年，聞一多詞，本人曲）工程文件
 ## Credits 致謝
 - [華侃如 先生 Sir Kan-ru "Sleepwalking" Hua](https://github.com/sleepwalking)
 - [李迪克 先生 Sir Di-ke "Ddickky" Li](https://weibo.com/ddickky)
