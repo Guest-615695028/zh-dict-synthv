@@ -1,7 +1,6 @@
 # zh-dict-synthv
 ## 説明 Description
-這一工程旨在增加Synthesizer V Studio（SV）漢語方言並縮小華語聲庫音素表並降低其解析程序之時空複雜度。
-
+這一工程旨在增加Synthesizer V Studio（SV）漢語方言並縮小華語聲庫音素表並降低其解析程序之時空複雜度。  
 This repository is aimed at extending dialectal support for Chinese voicebanks of Synthesizer V Studio (SVS) and reduce their phoneme list size to lower the time and space complexity of their respective resolution programs.
 ### 既定事實 Accomplished Facts
 1. SVS不區分VOCALOID區分的英語前L（**l**ot, ``l0``）與後L（ge**l**, ``l``）、送氣塞音與不送氣塞音；  
@@ -145,6 +144,8 @@ sil silence -> sil
 |60|iong|**iU** N|y o ng|*介音應拆分 should be split as noticed*
 |61|er|a **r&#92;&#96;**|ex **rr**|*正確發音是 actually read as* /ɚ/~/əɻ/ ``@` `` ~ ``@ r\` ``
 ## 粵語方面列表 List for Cantonese
+提供且僅提供合法音節組合。  
+This repository provides and only provides legal syllabic combinations.
 ### 聲母 Initials
 与華語對應相同（除`h`爲/h/而不是/x/；華語母語者也常以/h/代/x/），斜體見於《分韻撮要》及港鐵站名。
 |1|2|3|4|5|
@@ -160,12 +161,13 @@ sil silence -> sil
 |-|-|-|-|-|-|-|-|-|-|
 |`a`|aa/a|aai|aau|aam|aan|aang|aap|aat|aak|
 |`@`|-|ai|au|am|an|ang|ap|at|ak|
-|`e`||e|ei|*eu*|*em*|*en*|eng|*ep*|*et*|*ek*|
+|`e`|e|ei|[*eu*][1]|[*em*][1]|[*en*][1]|eng|[*ep*][1]|[*et*][1]|ek|
 |`i`|i|-|iu|im|in|ing|ip|it|ik|
-|`o`|o|oi|ou|om|on|ong|*op*|ot|ok|
+|`o`|o|oi|ou|*om*|on|ong|*op*|ot|ok|
 |`u`|u|ui|-|-|un|ung|-|ut|uk|
 |`7`|oe|eoi|-|-|eon|oeng|-|eot|oek|
 |`y`|yu|-|-|-|yun|-|-|yut|-
+[1]: colloqual only
 ### 總計 Total
 |拼音 Pinyin|現行 Current|建議 Suggestion
 |-|-|-
