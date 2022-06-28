@@ -174,8 +174,9 @@ This repository provides and only provides legal syllabic combinations.
 |`u`|u|ui|-|-|un|ung|-|ut|uk|
 |`7`|oe|eoi|-|-|eon|oeng|-|eot|oek|
 |`y`|yu|-|-|-|yun|-|-|yut|-
-## Examples 案例
-1. 《七子之歌》之《香港》《九龍島》（慶祝香港回歸25周年，聞一多詞，本人曲）工程文件
+## Examples 示例
+1. 《七子之歌》之《香港》《九龍島》（慶祝香港回歸25周年，聞一多詞，本人曲）工程文件  
+*Seven Sons' Song*, *Hong Kong* and *Kowloon Island* repository file, in memory of Hong Kong's handover for 25 years
 ## Credits 致謝
 - [華侃如 先生 Sir Kan-ru "Sleepwalking" Hua](https://github.com/sleepwalking)
 - [李迪克 先生 Sir Di-ke "Ddickky" Li](https://weibo.com/ddickky)
