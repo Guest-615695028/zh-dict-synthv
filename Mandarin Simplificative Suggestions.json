@@ -9,16 +9,36 @@
       "p": "a j"
     },
     {
+      "w": "air",
+      "p": "a r\\`"
+    },
+    {
       "w": "an",
-      "p": "e n"
+      "p": "a n"
     },
     {
       "w": "ang",
       "p": "a N"
     },
     {
+      "w": "angr",
+      "p": "a N r\\`"
+    },
+    {
+      "w": "anr",
+      "p": "a r\\`"
+    },
+    {
       "w": "ao",
       "p": "a w"
+    },
+    {
+      "w": "aor",
+      "p": "a w r\\`"
+    },
+    {
+      "w": "ar",
+      "p": "a r\\`"
     },
     {
       "w": "ba",
@@ -29,6 +49,10 @@
       "p": "p a j"
     },
     {
+      "w": "bair",
+      "p": "p a r\\`"
+    },
+    {
       "w": "ban",
       "p": "p a n"
     },
@@ -37,8 +61,24 @@
       "p": "p a N"
     },
     {
+      "w": "bangr",
+      "p": "p a N r\\`"
+    },
+    {
+      "w": "banr",
+      "p": "p a r\\`"
+    },
+    {
       "w": "bao",
       "p": "p a w"
+    },
+    {
+      "w": "baor",
+      "p": "p a w r\\`"
+    },
+    {
+      "w": "bar",
+      "p": "p a r\\`"
     },
     {
       "w": "be",
@@ -49,12 +89,28 @@
       "p": "p e j"
     },
     {
+      "w": "beir",
+      "p": "p @ r\\`"
+    },
+    {
       "w": "ben",
       "p": "p @ n"
     },
     {
       "w": "beng",
       "p": "p @ N"
+    },
+    {
+      "w": "bengr",
+      "p": "p @ N r\\`"
+    },
+    {
+      "w": "benr",
+      "p": "p @ r\\`"
+    },
+    {
+      "w": "ber",
+      "p": "p 7 r\\`"
     },
     {
       "w": "bi",
@@ -65,12 +121,24 @@
       "p": "p j e n"
     },
     {
+      "w": "bianr",
+      "p": "p j a r\\`"
+    },
+    {
       "w": "biao",
       "p": "p j a w"
     },
     {
+      "w": "biaor",
+      "p": "p j a w r\\`"
+    },
+    {
       "w": "bie",
-      "p": "p j 7"
+      "p": "p j e"
+    },
+    {
+      "w": "bier",
+      "p": "p j e r\\`"
     },
     {
       "w": "bin",
@@ -81,8 +149,24 @@
       "p": "p i N"
     },
     {
+      "w": "bingr",
+      "p": "p i N r\\`"
+    },
+    {
+      "w": "binr",
+      "p": "p i r\\`"
+    },
+    {
+      "w": "bir",
+      "p": "p i r\\`"
+    },
+    {
       "w": "biu",
       "p": "p j o w"
+    },
+    {
+      "w": "biur",
+      "p": "p j o w r\\`"
     },
     {
       "w": "bo",
@@ -93,12 +177,28 @@
       "p": "p o N"
     },
     {
+      "w": "bongr",
+      "p": "p o N r\\`"
+    },
+    {
+      "w": "bor",
+      "p": "p o r\\`"
+    },
+    {
       "w": "bou",
       "p": "p o w"
     },
     {
+      "w": "bour",
+      "p": "p o w r\\`"
+    },
+    {
       "w": "bu",
       "p": "p u"
+    },
+    {
+      "w": "bur",
+      "p": "p u r\\`"
     },
     {
       "w": "ca",
@@ -109,6 +209,10 @@
       "p": "tsh a j"
     },
     {
+      "w": "cair",
+      "p": "tsh a r\\`"
+    },
+    {
       "w": "can",
       "p": "tsh a n"
     },
@@ -117,8 +221,24 @@
       "p": "tsh a N"
     },
     {
+      "w": "cangr",
+      "p": "tsh a N r\\`"
+    },
+    {
+      "w": "canr",
+      "p": "tsh a r\\`"
+    },
+    {
       "w": "cao",
       "p": "tsh a w"
+    },
+    {
+      "w": "caor",
+      "p": "tsh a w r\\`"
+    },
+    {
+      "w": "car",
+      "p": "tsh a r\\`"
     },
     {
       "w": "ce",
@@ -129,12 +249,28 @@
       "p": "tsh e j"
     },
     {
+      "w": "ceir",
+      "p": "tsh @ r\\`"
+    },
+    {
       "w": "cen",
       "p": "tsh @ n"
     },
     {
       "w": "ceng",
       "p": "tsh @ N"
+    },
+    {
+      "w": "cengr",
+      "p": "tsh @ N r\\`"
+    },
+    {
+      "w": "cenr",
+      "p": "tsh @ r\\`"
+    },
+    {
+      "w": "cer",
+      "p": "tsh 7 r\\`"
     },
     {
       "w": "cha",
@@ -145,6 +281,10 @@
       "p": "ts`h a j"
     },
     {
+      "w": "chair",
+      "p": "ts`h a r\\`"
+    },
+    {
       "w": "chan",
       "p": "ts`h a n"
     },
@@ -153,8 +293,24 @@
       "p": "ts`h a N"
     },
     {
+      "w": "changr",
+      "p": "ts`h a N r\\`"
+    },
+    {
+      "w": "chanr",
+      "p": "ts`h a r\\`"
+    },
+    {
       "w": "chao",
       "p": "ts`h a w"
+    },
+    {
+      "w": "chaor",
+      "p": "ts`h a w r\\`"
+    },
+    {
+      "w": "char",
+      "p": "ts`h a r\\`"
     },
     {
       "w": "che",
@@ -165,6 +321,10 @@
       "p": "ts`h e j"
     },
     {
+      "w": "cheir",
+      "p": "ts`h @ r\\`"
+    },
+    {
       "w": "chen",
       "p": "ts`h @ n"
     },
@@ -173,8 +333,24 @@
       "p": "ts`h @ N"
     },
     {
+      "w": "chengr",
+      "p": "ts`h @ N r\\`"
+    },
+    {
+      "w": "chenr",
+      "p": "ts`h @ r\\`"
+    },
+    {
+      "w": "cher",
+      "p": "ts`h 7 r\\`"
+    },
+    {
       "w": "chi",
       "p": "ts`h i\\"
+    },
+    {
+      "w": "chir",
+      "p": "ts`h @ r\\`"
     },
     {
       "w": "cho",
@@ -185,8 +361,20 @@
       "p": "ts`h o N"
     },
     {
+      "w": "chongr",
+      "p": "ts`h o N r\\`"
+    },
+    {
+      "w": "chor",
+      "p": "ts`h o r\\`"
+    },
+    {
       "w": "chou",
       "p": "ts`h o w"
+    },
+    {
+      "w": "chour",
+      "p": "ts`h o w r\\`"
     },
     {
       "w": "chu",
@@ -201,6 +389,10 @@
       "p": "ts`h w a j"
     },
     {
+      "w": "chuair",
+      "p": "ts`h w a r\\`"
+    },
+    {
       "w": "chuan",
       "p": "ts`h w a n"
     },
@@ -209,16 +401,44 @@
       "p": "ts`h w a N"
     },
     {
+      "w": "chuangr",
+      "p": "ts`h w a N r\\`"
+    },
+    {
+      "w": "chuanr",
+      "p": "ts`h w a r\\`"
+    },
+    {
+      "w": "chuar",
+      "p": "ts`h w a r\\`"
+    },
+    {
       "w": "chui",
       "p": "ts`h w e j"
+    },
+    {
+      "w": "chuir",
+      "p": "ts`h u r\\`"
     },
     {
       "w": "chun",
       "p": "ts`h u n"
     },
     {
+      "w": "chunr",
+      "p": "ts`h u r\\`"
+    },
+    {
       "w": "chuo",
       "p": "ts`h w o"
+    },
+    {
+      "w": "chuor",
+      "p": "ts`h w o r\\`"
+    },
+    {
+      "w": "chur",
+      "p": "ts`h u r\\`"
     },
     {
       "w": "ci",
@@ -233,16 +453,36 @@
       "p": "tsh j a N"
     },
     {
+      "w": "ciangr",
+      "p": "tsh j a N r\\`"
+    },
+    {
+      "w": "cianr",
+      "p": "tsh j a r\\`"
+    },
+    {
       "w": "ciao",
       "p": "tsh j a w"
     },
     {
+      "w": "ciaor",
+      "p": "tsh j a w r\\`"
+    },
+    {
       "w": "cie",
-      "p": "tsh j 7"
+      "p": "tsh j e"
+    },
+    {
+      "w": "cier",
+      "p": "tsh j e r\\`"
     },
     {
       "w": "cii",
       "p": "tsh i"
+    },
+    {
+      "w": "ciir",
+      "p": "tsh i r\\`"
     },
     {
       "w": "cin",
@@ -253,12 +493,32 @@
       "p": "tsh i N"
     },
     {
+      "w": "cingr",
+      "p": "tsh i N r\\`"
+    },
+    {
+      "w": "cinr",
+      "p": "tsh i r\\`"
+    },
+    {
       "w": "cio",
       "p": "tsh j o"
     },
     {
+      "w": "cior",
+      "p": "tsh j o r\\`"
+    },
+    {
+      "w": "cir",
+      "p": "tsh @ r\\`"
+    },
+    {
       "w": "ciu",
       "p": "tsh j o w"
+    },
+    {
+      "w": "ciur",
+      "p": "tsh j o w r\\`"
     },
     {
       "w": "co",
@@ -269,8 +529,20 @@
       "p": "tsh o N"
     },
     {
+      "w": "congr",
+      "p": "tsh o N r\\`"
+    },
+    {
+      "w": "cor",
+      "p": "tsh o r\\`"
+    },
+    {
       "w": "cou",
       "p": "tsh o w"
+    },
+    {
+      "w": "cour",
+      "p": "tsh o w r\\`"
     },
     {
       "w": "cu",
@@ -281,20 +553,44 @@
       "p": "tsh w a n"
     },
     {
+      "w": "cuanr",
+      "p": "tsh w a r\\`"
+    },
+    {
       "w": "cue",
       "p": "tsh w e"
+    },
+    {
+      "w": "cuer",
+      "p": "tsh w e r\\`"
     },
     {
       "w": "cui",
       "p": "tsh w e j"
     },
     {
+      "w": "cuir",
+      "p": "tsh u r\\`"
+    },
+    {
       "w": "cun",
       "p": "tsh u n"
     },
     {
+      "w": "cunr",
+      "p": "tsh u r\\`"
+    },
+    {
       "w": "cuo",
       "p": "tsh w o"
+    },
+    {
+      "w": "cuor",
+      "p": "tsh w o r\\`"
+    },
+    {
+      "w": "cur",
+      "p": "tsh u r\\`"
     },
     {
       "w": "cv",
@@ -305,12 +601,28 @@
       "p": "tsh w e n"
     },
     {
+      "w": "cvanr",
+      "p": "tsh w a r\\`"
+    },
+    {
       "w": "cve",
       "p": "tsh w e"
     },
     {
+      "w": "cver",
+      "p": "tsh w e r\\`"
+    },
+    {
       "w": "cvn",
       "p": "tsh y n"
+    },
+    {
+      "w": "cvnr",
+      "p": "tsh y r\\`"
+    },
+    {
+      "w": "cvr",
+      "p": "tsh y r\\`"
     },
     {
       "w": "da",
@@ -321,6 +633,10 @@
       "p": "t a j"
     },
     {
+      "w": "dair",
+      "p": "t a r\\`"
+    },
+    {
       "w": "dan",
       "p": "t a n"
     },
@@ -329,8 +645,24 @@
       "p": "t a N"
     },
     {
+      "w": "dangr",
+      "p": "t a N r\\`"
+    },
+    {
+      "w": "danr",
+      "p": "t a r\\`"
+    },
+    {
       "w": "dao",
       "p": "t a w"
+    },
+    {
+      "w": "daor",
+      "p": "t a w r\\`"
+    },
+    {
+      "w": "dar",
+      "p": "t a r\\`"
     },
     {
       "w": "de",
@@ -341,12 +673,28 @@
       "p": "t e j"
     },
     {
+      "w": "deir",
+      "p": "t @ r\\`"
+    },
+    {
       "w": "den",
       "p": "t @ n"
     },
     {
       "w": "deng",
       "p": "t @ N"
+    },
+    {
+      "w": "dengr",
+      "p": "t @ N r\\`"
+    },
+    {
+      "w": "denr",
+      "p": "t @ r\\`"
+    },
+    {
+      "w": "der",
+      "p": "t 7 r\\`"
     },
     {
       "w": "di",
@@ -357,24 +705,44 @@
       "p": "t j e n"
     },
     {
+      "w": "dianr",
+      "p": "t j a r\\`"
+    },
+    {
       "w": "diao",
       "p": "t j a w"
     },
     {
-      "w": "die",
-      "p": "t j 7"
+      "w": "diaor",
+      "p": "t j a w r\\`"
     },
     {
-      "w": "din",
-      "p": "t i n"
+      "w": "die",
+      "p": "t j e"
+    },
+    {
+      "w": "dier",
+      "p": "t j e r\\`"
     },
     {
       "w": "ding",
       "p": "t i N"
     },
     {
+      "w": "dingr",
+      "p": "t i N r\\`"
+    },
+    {
+      "w": "dir",
+      "p": "t i r\\`"
+    },
+    {
       "w": "diu",
       "p": "t j o w"
+    },
+    {
+      "w": "diur",
+      "p": "t j o w r\\`"
     },
     {
       "w": "do",
@@ -385,28 +753,56 @@
       "p": "t o N"
     },
     {
+      "w": "dongr",
+      "p": "t o N r\\`"
+    },
+    {
+      "w": "dor",
+      "p": "t o r\\`"
+    },
+    {
       "w": "dou",
       "p": "t o w"
+    },
+    {
+      "w": "dour",
+      "p": "t o w r\\`"
     },
     {
       "w": "du",
       "p": "t u"
     },
     {
+      "w": "dun",
+      "p": "t u n"
+    },
+    {
+      "w": "dunr",
+      "p": "t u r\\`"
+    },
+    {
       "w": "duo",
       "p": "t w o"
+    },
+    {
+      "w": "duor",
+      "p": "t w o r\\`"
+    },
+    {
+      "w": "dur",
+      "p": "t u r\\`"
     },
     {
       "w": "e",
       "p": "7"
     },
     {
-      "w": "e",
-      "p": "e"
-    },
-    {
       "w": "ei",
       "p": "e j"
+    },
+    {
+      "w": "eir",
+      "p": "@ r\\`"
     },
     {
       "w": "en",
@@ -415,6 +811,14 @@
     {
       "w": "eng",
       "p": "@ N"
+    },
+    {
+      "w": "engr",
+      "p": "@ N r\\`"
+    },
+    {
+      "w": "enr",
+      "p": "@ r\\`"
     },
     {
       "w": "er",
@@ -433,12 +837,28 @@
       "p": "f a N"
     },
     {
+      "w": "fangr",
+      "p": "f a N r\\`"
+    },
+    {
+      "w": "fanr",
+      "p": "f a r\\`"
+    },
+    {
+      "w": "far",
+      "p": "f a r\\`"
+    },
+    {
       "w": "fe",
       "p": "f 7"
     },
     {
       "w": "fei",
       "p": "f e j"
+    },
+    {
+      "w": "feir",
+      "p": "f @ r\\`"
     },
     {
       "w": "fen",
@@ -449,6 +869,18 @@
       "p": "f @ N"
     },
     {
+      "w": "fengr",
+      "p": "f @ N r\\`"
+    },
+    {
+      "w": "fenr",
+      "p": "f @ r\\`"
+    },
+    {
+      "w": "fer",
+      "p": "f 7 r\\`"
+    },
+    {
       "w": "fo",
       "p": "f o"
     },
@@ -457,12 +889,28 @@
       "p": "f o N"
     },
     {
+      "w": "fongr",
+      "p": "f o N r\\`"
+    },
+    {
+      "w": "for",
+      "p": "f o r\\`"
+    },
+    {
       "w": "fou",
       "p": "f o w"
     },
     {
+      "w": "four",
+      "p": "f o w r\\`"
+    },
+    {
       "w": "fu",
       "p": "f u"
+    },
+    {
+      "w": "fur",
+      "p": "f u r\\`"
     },
     {
       "w": "ga",
@@ -473,6 +921,10 @@
       "p": "k a j"
     },
     {
+      "w": "gair",
+      "p": "k a r\\`"
+    },
+    {
       "w": "gan",
       "p": "k a n"
     },
@@ -481,8 +933,24 @@
       "p": "k a N"
     },
     {
+      "w": "gangr",
+      "p": "k a N r\\`"
+    },
+    {
+      "w": "ganr",
+      "p": "k a r\\`"
+    },
+    {
       "w": "gao",
       "p": "k a w"
+    },
+    {
+      "w": "gaor",
+      "p": "k a w r\\`"
+    },
+    {
+      "w": "gar",
+      "p": "k a r\\`"
     },
     {
       "w": "ge",
@@ -493,12 +961,28 @@
       "p": "k e j"
     },
     {
+      "w": "geir",
+      "p": "k @ r\\`"
+    },
+    {
       "w": "gen",
       "p": "k @ n"
     },
     {
       "w": "geng",
       "p": "k @ N"
+    },
+    {
+      "w": "gengr",
+      "p": "k @ N r\\`"
+    },
+    {
+      "w": "genr",
+      "p": "k @ r\\`"
+    },
+    {
+      "w": "ger",
+      "p": "k 7 r\\`"
     },
     {
       "w": "go",
@@ -509,8 +993,20 @@
       "p": "k o N"
     },
     {
+      "w": "gongr",
+      "p": "k o N r\\`"
+    },
+    {
+      "w": "gor",
+      "p": "k o r\\`"
+    },
+    {
       "w": "gou",
       "p": "k o w"
+    },
+    {
+      "w": "gour",
+      "p": "k o w r\\`"
     },
     {
       "w": "gu",
@@ -525,12 +1021,32 @@
       "p": "k w a j"
     },
     {
+      "w": "guair",
+      "p": "k w a r\\`"
+    },
+    {
       "w": "guang",
       "p": "k w a N"
     },
     {
+      "w": "guangr",
+      "p": "k w a N r\\`"
+    },
+    {
+      "w": "guar",
+      "p": "k w a r\\`"
+    },
+    {
       "w": "guo",
       "p": "k w o"
+    },
+    {
+      "w": "guor",
+      "p": "k w o r\\`"
+    },
+    {
+      "w": "gur",
+      "p": "k u r\\`"
     },
     {
       "w": "ha",
@@ -541,6 +1057,10 @@
       "p": "x a j"
     },
     {
+      "w": "hair",
+      "p": "x a r\\`"
+    },
+    {
       "w": "han",
       "p": "x a n"
     },
@@ -549,8 +1069,24 @@
       "p": "x a N"
     },
     {
+      "w": "hangr",
+      "p": "x a N r\\`"
+    },
+    {
+      "w": "hanr",
+      "p": "x a r\\`"
+    },
+    {
       "w": "hao",
       "p": "x a w"
+    },
+    {
+      "w": "haor",
+      "p": "x a w r\\`"
+    },
+    {
+      "w": "har",
+      "p": "x a r\\`"
     },
     {
       "w": "he",
@@ -561,12 +1097,28 @@
       "p": "x e j"
     },
     {
+      "w": "heir",
+      "p": "x @ r\\`"
+    },
+    {
       "w": "hen",
       "p": "x @ n"
     },
     {
       "w": "heng",
       "p": "x @ N"
+    },
+    {
+      "w": "hengr",
+      "p": "x @ N r\\`"
+    },
+    {
+      "w": "henr",
+      "p": "x @ r\\`"
+    },
+    {
+      "w": "her",
+      "p": "x 7 r\\`"
     },
     {
       "w": "ho",
@@ -577,8 +1129,20 @@
       "p": "x o N"
     },
     {
+      "w": "hongr",
+      "p": "x o N r\\`"
+    },
+    {
+      "w": "hor",
+      "p": "x o r\\`"
+    },
+    {
       "w": "hou",
       "p": "x o w"
+    },
+    {
+      "w": "hour",
+      "p": "x o w r\\`"
     },
     {
       "w": "hu",
@@ -593,12 +1157,32 @@
       "p": "x w a j"
     },
     {
+      "w": "huair",
+      "p": "x w a r\\`"
+    },
+    {
       "w": "huang",
       "p": "x w a N"
     },
     {
+      "w": "huangr",
+      "p": "x w a N r\\`"
+    },
+    {
+      "w": "huar",
+      "p": "x w a r\\`"
+    },
+    {
       "w": "huo",
       "p": "x w o"
+    },
+    {
+      "w": "huor",
+      "p": "x w o r\\`"
+    },
+    {
+      "w": "hur",
+      "p": "x u r\\`"
     },
     {
       "w": "i",
@@ -630,7 +1214,7 @@
     },
     {
       "w": "ie",
-      "p": "j 7"
+      "p": "j e"
     },
     {
       "w": "in",
@@ -665,6 +1249,10 @@
       "p": "ts\\ j a j"
     },
     {
+      "w": "jiair",
+      "p": "ts\\ j a r\\`"
+    },
+    {
       "w": "jian",
       "p": "ts\\ j e n"
     },
@@ -673,12 +1261,32 @@
       "p": "ts\\ j a N"
     },
     {
+      "w": "jiangr",
+      "p": "ts\\ j a N r\\`"
+    },
+    {
+      "w": "jianr",
+      "p": "ts\\ j a r\\`"
+    },
+    {
       "w": "jiao",
       "p": "ts\\ j a w"
     },
     {
+      "w": "jiaor",
+      "p": "ts\\ j a w r\\`"
+    },
+    {
+      "w": "jiar",
+      "p": "ts\\ j a r\\`"
+    },
+    {
       "w": "jie",
-      "p": "ts\\ j 7"
+      "p": "ts\\ j e"
+    },
+    {
+      "w": "jier",
+      "p": "ts\\ j e r\\`"
     },
     {
       "w": "jin",
@@ -689,6 +1297,14 @@
       "p": "ts\\ i N"
     },
     {
+      "w": "jingr",
+      "p": "ts\\ i N r\\`"
+    },
+    {
+      "w": "jinr",
+      "p": "ts\\ i r\\`"
+    },
+    {
       "w": "jio",
       "p": "ts\\ j o"
     },
@@ -697,8 +1313,24 @@
       "p": "ts\\ j o N"
     },
     {
+      "w": "jiongr",
+      "p": "ts\\ j o N r\\`"
+    },
+    {
+      "w": "jior",
+      "p": "ts\\ j o r\\`"
+    },
+    {
+      "w": "jir",
+      "p": "ts\\ i r\\`"
+    },
+    {
       "w": "jiu",
       "p": "ts\\ j o w"
+    },
+    {
+      "w": "jiur",
+      "p": "ts\\ j o w r\\`"
     },
     {
       "w": "ju",
@@ -709,12 +1341,28 @@
       "p": "ts\\ w e n"
     },
     {
+      "w": "juanr",
+      "p": "ts\\ w a r\\`"
+    },
+    {
       "w": "jue",
       "p": "ts\\ w e"
     },
     {
+      "w": "juer",
+      "p": "ts\\ w e r\\`"
+    },
+    {
       "w": "jun",
       "p": "ts\\ y n"
+    },
+    {
+      "w": "junr",
+      "p": "ts\\ y r\\`"
+    },
+    {
+      "w": "jur",
+      "p": "ts\\ y r\\`"
     },
     {
       "w": "jv",
@@ -725,12 +1373,28 @@
       "p": "ts\\ w e n"
     },
     {
+      "w": "jvanr",
+      "p": "ts\\ w a r\\`"
+    },
+    {
       "w": "jve",
       "p": "ts\\ w e"
     },
     {
+      "w": "jver",
+      "p": "ts\\ w e r\\`"
+    },
+    {
       "w": "jvn",
       "p": "ts\\ y n"
+    },
+    {
+      "w": "jvnr",
+      "p": "ts\\ y r\\`"
+    },
+    {
+      "w": "jvr",
+      "p": "ts\\ y r\\`"
     },
     {
       "w": "ka",
@@ -741,6 +1405,10 @@
       "p": "kh a j"
     },
     {
+      "w": "kair",
+      "p": "kh a r\\`"
+    },
+    {
       "w": "kan",
       "p": "kh a n"
     },
@@ -749,8 +1417,24 @@
       "p": "kh a N"
     },
     {
+      "w": "kangr",
+      "p": "kh a N r\\`"
+    },
+    {
+      "w": "kanr",
+      "p": "kh a r\\`"
+    },
+    {
       "w": "kao",
       "p": "kh a w"
+    },
+    {
+      "w": "kaor",
+      "p": "kh a w r\\`"
+    },
+    {
+      "w": "kar",
+      "p": "kh a r\\`"
     },
     {
       "w": "ke",
@@ -761,12 +1445,28 @@
       "p": "kh e j"
     },
     {
+      "w": "keir",
+      "p": "kh @ r\\`"
+    },
+    {
       "w": "ken",
       "p": "kh @ n"
     },
     {
       "w": "keng",
       "p": "kh @ N"
+    },
+    {
+      "w": "kengr",
+      "p": "kh @ N r\\`"
+    },
+    {
+      "w": "kenr",
+      "p": "kh @ r\\`"
+    },
+    {
+      "w": "ker",
+      "p": "kh 7 r\\`"
     },
     {
       "w": "ko",
@@ -777,8 +1477,20 @@
       "p": "kh o N"
     },
     {
+      "w": "kongr",
+      "p": "kh o N r\\`"
+    },
+    {
+      "w": "kor",
+      "p": "kh o r\\`"
+    },
+    {
       "w": "kou",
       "p": "kh o w"
+    },
+    {
+      "w": "kour",
+      "p": "kh o w r\\`"
     },
     {
       "w": "ku",
@@ -793,12 +1505,32 @@
       "p": "kh w a j"
     },
     {
+      "w": "kuair",
+      "p": "kh w a r\\`"
+    },
+    {
       "w": "kuang",
       "p": "kh w a N"
     },
     {
+      "w": "kuangr",
+      "p": "kh w a N r\\`"
+    },
+    {
+      "w": "kuar",
+      "p": "kh w a r\\`"
+    },
+    {
       "w": "kuo",
       "p": "kh w o"
+    },
+    {
+      "w": "kuor",
+      "p": "kh w o r\\`"
+    },
+    {
+      "w": "kur",
+      "p": "kh u r\\`"
     },
     {
       "w": "la",
@@ -809,6 +1541,10 @@
       "p": "l a j"
     },
     {
+      "w": "lair",
+      "p": "l a r\\`"
+    },
+    {
       "w": "lan",
       "p": "l a n"
     },
@@ -817,8 +1553,24 @@
       "p": "l a N"
     },
     {
+      "w": "langr",
+      "p": "l a N r\\`"
+    },
+    {
+      "w": "lanr",
+      "p": "l a r\\`"
+    },
+    {
       "w": "lao",
       "p": "l a w"
+    },
+    {
+      "w": "laor",
+      "p": "l a w r\\`"
+    },
+    {
+      "w": "lar",
+      "p": "l a r\\`"
     },
     {
       "w": "le",
@@ -829,12 +1581,28 @@
       "p": "l e j"
     },
     {
+      "w": "leir",
+      "p": "l @ r\\`"
+    },
+    {
       "w": "len",
       "p": "l @ n"
     },
     {
       "w": "leng",
       "p": "l @ N"
+    },
+    {
+      "w": "lengr",
+      "p": "l @ N r\\`"
+    },
+    {
+      "w": "lenr",
+      "p": "l @ r\\`"
+    },
+    {
+      "w": "ler",
+      "p": "l 7 r\\`"
     },
     {
       "w": "li",
@@ -849,12 +1617,28 @@
       "p": "l j a N"
     },
     {
+      "w": "liangr",
+      "p": "l j a N r\\`"
+    },
+    {
+      "w": "lianr",
+      "p": "l j a r\\`"
+    },
+    {
       "w": "liao",
       "p": "l j a w"
     },
     {
+      "w": "liaor",
+      "p": "l j a w r\\`"
+    },
+    {
       "w": "lie",
-      "p": "l j 7"
+      "p": "l j e"
+    },
+    {
+      "w": "lier",
+      "p": "l j e r\\`"
     },
     {
       "w": "lin",
@@ -865,12 +1649,32 @@
       "p": "l i N"
     },
     {
+      "w": "lingr",
+      "p": "l i N r\\`"
+    },
+    {
+      "w": "linr",
+      "p": "l i r\\`"
+    },
+    {
       "w": "lio",
       "p": "l j o"
     },
     {
+      "w": "lior",
+      "p": "l j o r\\`"
+    },
+    {
+      "w": "lir",
+      "p": "l i r\\`"
+    },
+    {
       "w": "liu",
       "p": "l j o w"
+    },
+    {
+      "w": "liur",
+      "p": "l j o w r\\`"
     },
     {
       "w": "lo",
@@ -881,8 +1685,20 @@
       "p": "l o N"
     },
     {
+      "w": "longr",
+      "p": "l o N r\\`"
+    },
+    {
+      "w": "lor",
+      "p": "l o r\\`"
+    },
+    {
       "w": "lou",
       "p": "l o w"
+    },
+    {
+      "w": "lour",
+      "p": "l o w r\\`"
     },
     {
       "w": "lu",
@@ -893,8 +1709,28 @@
       "p": "l w e"
     },
     {
+      "w": "luer",
+      "p": "l w e r\\`"
+    },
+    {
+      "w": "lun",
+      "p": "l u n"
+    },
+    {
+      "w": "lunr",
+      "p": "l u r\\`"
+    },
+    {
       "w": "luo",
       "p": "l w o"
+    },
+    {
+      "w": "luor",
+      "p": "l w o r\\`"
+    },
+    {
+      "w": "lur",
+      "p": "l u r\\`"
     },
     {
       "w": "lv",
@@ -905,12 +1741,24 @@
       "p": "l w e"
     },
     {
+      "w": "lver",
+      "p": "l w e r\\`"
+    },
+    {
+      "w": "lvr",
+      "p": "l y r\\`"
+    },
+    {
       "w": "ma",
       "p": "m a"
     },
     {
       "w": "mai",
       "p": "m a j"
+    },
+    {
+      "w": "mair",
+      "p": "m a r\\`"
     },
     {
       "w": "man",
@@ -921,8 +1769,24 @@
       "p": "m a N"
     },
     {
+      "w": "mangr",
+      "p": "m a N r\\`"
+    },
+    {
+      "w": "manr",
+      "p": "m a r\\`"
+    },
+    {
       "w": "mao",
       "p": "m a w"
+    },
+    {
+      "w": "maor",
+      "p": "m a w r\\`"
+    },
+    {
+      "w": "mar",
+      "p": "m a r\\`"
     },
     {
       "w": "me",
@@ -933,12 +1797,28 @@
       "p": "m e j"
     },
     {
+      "w": "meir",
+      "p": "m @ r\\`"
+    },
+    {
       "w": "men",
       "p": "m @ n"
     },
     {
       "w": "meng",
       "p": "m @ N"
+    },
+    {
+      "w": "mengr",
+      "p": "m @ N r\\`"
+    },
+    {
+      "w": "menr",
+      "p": "m @ r\\`"
+    },
+    {
+      "w": "mer",
+      "p": "m 7 r\\`"
     },
     {
       "w": "mi",
@@ -949,12 +1829,24 @@
       "p": "m j e n"
     },
     {
+      "w": "mianr",
+      "p": "m j a r\\`"
+    },
+    {
       "w": "miao",
       "p": "m j a w"
     },
     {
+      "w": "miaor",
+      "p": "m j a w r\\`"
+    },
+    {
       "w": "mie",
-      "p": "m j 7"
+      "p": "m j e"
+    },
+    {
+      "w": "mier",
+      "p": "m j e r\\`"
     },
     {
       "w": "min",
@@ -965,8 +1857,24 @@
       "p": "m i N"
     },
     {
+      "w": "mingr",
+      "p": "m i N r\\`"
+    },
+    {
+      "w": "minr",
+      "p": "m i r\\`"
+    },
+    {
+      "w": "mir",
+      "p": "m i r\\`"
+    },
+    {
       "w": "miu",
       "p": "m j o w"
+    },
+    {
+      "w": "miur",
+      "p": "m j o w r\\`"
     },
     {
       "w": "mo",
@@ -977,12 +1885,28 @@
       "p": "m o N"
     },
     {
+      "w": "mongr",
+      "p": "m o N r\\`"
+    },
+    {
+      "w": "mor",
+      "p": "m o r\\`"
+    },
+    {
       "w": "mou",
       "p": "m o w"
     },
     {
+      "w": "mour",
+      "p": "m o w r\\`"
+    },
+    {
       "w": "mu",
       "p": "m u"
+    },
+    {
+      "w": "mur",
+      "p": "m u r\\`"
     },
     {
       "w": "na",
@@ -993,6 +1917,10 @@
       "p": "n a j"
     },
     {
+      "w": "nair",
+      "p": "n a r\\`"
+    },
+    {
       "w": "nan",
       "p": "n a n"
     },
@@ -1001,8 +1929,24 @@
       "p": "n a N"
     },
     {
+      "w": "nangr",
+      "p": "n a N r\\`"
+    },
+    {
+      "w": "nanr",
+      "p": "n a r\\`"
+    },
+    {
       "w": "nao",
       "p": "n a w"
+    },
+    {
+      "w": "naor",
+      "p": "n a w r\\`"
+    },
+    {
+      "w": "nar",
+      "p": "n a r\\`"
     },
     {
       "w": "ne",
@@ -1013,12 +1957,28 @@
       "p": "n e j"
     },
     {
+      "w": "neir",
+      "p": "n @ r\\`"
+    },
+    {
       "w": "nen",
       "p": "n @ n"
     },
     {
       "w": "neng",
       "p": "n @ N"
+    },
+    {
+      "w": "nengr",
+      "p": "n @ N r\\`"
+    },
+    {
+      "w": "nenr",
+      "p": "n @ r\\`"
+    },
+    {
+      "w": "ner",
+      "p": "n 7 r\\`"
     },
     {
       "w": "ni",
@@ -1033,12 +1993,28 @@
       "p": "n j a N"
     },
     {
+      "w": "niangr",
+      "p": "n j a N r\\`"
+    },
+    {
+      "w": "nianr",
+      "p": "n j a r\\`"
+    },
+    {
       "w": "niao",
       "p": "n j a w"
     },
     {
+      "w": "niaor",
+      "p": "n j a w r\\`"
+    },
+    {
       "w": "nie",
-      "p": "n j 7"
+      "p": "n j e"
+    },
+    {
+      "w": "nier",
+      "p": "n j e r\\`"
     },
     {
       "w": "nin",
@@ -1049,12 +2025,32 @@
       "p": "n i N"
     },
     {
+      "w": "ningr",
+      "p": "n i N r\\`"
+    },
+    {
+      "w": "ninr",
+      "p": "n i r\\`"
+    },
+    {
       "w": "nio",
       "p": "n j o"
     },
     {
+      "w": "nior",
+      "p": "n j o r\\`"
+    },
+    {
+      "w": "nir",
+      "p": "n i r\\`"
+    },
+    {
       "w": "niu",
       "p": "n j o w"
+    },
+    {
+      "w": "niur",
+      "p": "n j o w r\\`"
     },
     {
       "w": "no",
@@ -1065,8 +2061,20 @@
       "p": "n o N"
     },
     {
+      "w": "nongr",
+      "p": "n o N r\\`"
+    },
+    {
+      "w": "nor",
+      "p": "n o r\\`"
+    },
+    {
       "w": "nou",
       "p": "n o w"
+    },
+    {
+      "w": "nour",
+      "p": "n o w r\\`"
     },
     {
       "w": "nu",
@@ -1077,8 +2085,28 @@
       "p": "n w e"
     },
     {
+      "w": "nuer",
+      "p": "n w e r\\`"
+    },
+    {
+      "w": "nun",
+      "p": "n u n"
+    },
+    {
+      "w": "nunr",
+      "p": "n u r\\`"
+    },
+    {
       "w": "nuo",
       "p": "n w o"
+    },
+    {
+      "w": "nuor",
+      "p": "n w o r\\`"
+    },
+    {
+      "w": "nur",
+      "p": "n u r\\`"
     },
     {
       "w": "nv",
@@ -1089,6 +2117,14 @@
       "p": "n w e"
     },
     {
+      "w": "nver",
+      "p": "n w e r\\`"
+    },
+    {
+      "w": "nvr",
+      "p": "n y r\\`"
+    },
+    {
       "w": "o",
       "p": "o"
     },
@@ -1097,8 +2133,20 @@
       "p": "o N"
     },
     {
+      "w": "ongr",
+      "p": "o N r\\`"
+    },
+    {
+      "w": "or",
+      "p": "o r\\`"
+    },
+    {
       "w": "ou",
       "p": "o w"
+    },
+    {
+      "w": "our",
+      "p": "o w r\\`"
     },
     {
       "w": "pa",
@@ -1109,6 +2157,10 @@
       "p": "ph a j"
     },
     {
+      "w": "pair",
+      "p": "ph a r\\`"
+    },
+    {
       "w": "pan",
       "p": "ph a n"
     },
@@ -1117,8 +2169,24 @@
       "p": "ph a N"
     },
     {
+      "w": "pangr",
+      "p": "ph a N r\\`"
+    },
+    {
+      "w": "panr",
+      "p": "ph a r\\`"
+    },
+    {
       "w": "pao",
       "p": "ph a w"
+    },
+    {
+      "w": "paor",
+      "p": "ph a w r\\`"
+    },
+    {
+      "w": "par",
+      "p": "ph a r\\`"
     },
     {
       "w": "pe",
@@ -1129,12 +2197,28 @@
       "p": "ph e j"
     },
     {
+      "w": "peir",
+      "p": "ph @ r\\`"
+    },
+    {
       "w": "pen",
       "p": "ph @ n"
     },
     {
       "w": "peng",
       "p": "ph @ N"
+    },
+    {
+      "w": "pengr",
+      "p": "ph @ N r\\`"
+    },
+    {
+      "w": "penr",
+      "p": "ph @ r\\`"
+    },
+    {
+      "w": "per",
+      "p": "ph 7 r\\`"
     },
     {
       "w": "pi",
@@ -1145,12 +2229,24 @@
       "p": "ph j e n"
     },
     {
+      "w": "pianr",
+      "p": "ph j a r\\`"
+    },
+    {
       "w": "piao",
       "p": "ph j a w"
     },
     {
+      "w": "piaor",
+      "p": "ph j a w r\\`"
+    },
+    {
       "w": "pie",
-      "p": "ph j 7"
+      "p": "ph j e"
+    },
+    {
+      "w": "pier",
+      "p": "ph j e r\\`"
     },
     {
       "w": "pin",
@@ -1161,8 +2257,24 @@
       "p": "ph i N"
     },
     {
+      "w": "pingr",
+      "p": "ph i N r\\`"
+    },
+    {
+      "w": "pinr",
+      "p": "ph i r\\`"
+    },
+    {
+      "w": "pir",
+      "p": "ph i r\\`"
+    },
+    {
       "w": "piu",
       "p": "ph j o w"
+    },
+    {
+      "w": "piur",
+      "p": "ph j o w r\\`"
     },
     {
       "w": "po",
@@ -1173,12 +2285,28 @@
       "p": "ph o N"
     },
     {
+      "w": "pongr",
+      "p": "ph o N r\\`"
+    },
+    {
+      "w": "por",
+      "p": "ph o r\\`"
+    },
+    {
       "w": "pou",
       "p": "ph o w"
     },
     {
+      "w": "pour",
+      "p": "ph o w r\\`"
+    },
+    {
       "w": "pu",
       "p": "ph u"
+    },
+    {
+      "w": "pur",
+      "p": "ph u r\\`"
     },
     {
       "w": "qi",
@@ -1193,6 +2321,10 @@
       "p": "ts\\h j a j"
     },
     {
+      "w": "qiair",
+      "p": "ts\\h j a r\\`"
+    },
+    {
       "w": "qian",
       "p": "ts\\h j e n"
     },
@@ -1201,12 +2333,32 @@
       "p": "ts\\h j a N"
     },
     {
+      "w": "qiangr",
+      "p": "ts\\h j a N r\\`"
+    },
+    {
+      "w": "qianr",
+      "p": "ts\\h j a r\\`"
+    },
+    {
       "w": "qiao",
       "p": "ts\\h j a w"
     },
     {
+      "w": "qiaor",
+      "p": "ts\\h j a w r\\`"
+    },
+    {
+      "w": "qiar",
+      "p": "ts\\h j a r\\`"
+    },
+    {
       "w": "qie",
-      "p": "ts\\h j 7"
+      "p": "ts\\h j e"
+    },
+    {
+      "w": "qier",
+      "p": "ts\\h j e r\\`"
     },
     {
       "w": "qin",
@@ -1217,6 +2369,14 @@
       "p": "ts\\h i N"
     },
     {
+      "w": "qingr",
+      "p": "ts\\h i N r\\`"
+    },
+    {
+      "w": "qinr",
+      "p": "ts\\h i r\\`"
+    },
+    {
       "w": "qio",
       "p": "ts\\h j o"
     },
@@ -1225,8 +2385,24 @@
       "p": "ts\\h j o N"
     },
     {
+      "w": "qiongr",
+      "p": "ts\\h j o N r\\`"
+    },
+    {
+      "w": "qior",
+      "p": "ts\\h j o r\\`"
+    },
+    {
+      "w": "qir",
+      "p": "ts\\h i r\\`"
+    },
+    {
       "w": "qiu",
       "p": "ts\\h j o w"
+    },
+    {
+      "w": "qiur",
+      "p": "ts\\h j o w r\\`"
     },
     {
       "w": "qu",
@@ -1237,12 +2413,28 @@
       "p": "ts\\h w e n"
     },
     {
+      "w": "quanr",
+      "p": "ts\\h w a r\\`"
+    },
+    {
       "w": "que",
       "p": "ts\\h w e"
     },
     {
+      "w": "quer",
+      "p": "ts\\h w e r\\`"
+    },
+    {
       "w": "qun",
       "p": "ts\\h y n"
+    },
+    {
+      "w": "qunr",
+      "p": "ts\\h y r\\`"
+    },
+    {
+      "w": "qur",
+      "p": "ts\\h y r\\`"
     },
     {
       "w": "qv",
@@ -1253,12 +2445,28 @@
       "p": "ts\\h w e n"
     },
     {
+      "w": "qvanr",
+      "p": "ts\\h w a r\\`"
+    },
+    {
       "w": "qve",
       "p": "ts\\h w e"
     },
     {
+      "w": "qver",
+      "p": "ts\\h w e r\\`"
+    },
+    {
       "w": "qvn",
       "p": "ts\\h y n"
+    },
+    {
+      "w": "qvnr",
+      "p": "ts\\h y r\\`"
+    },
+    {
+      "w": "qvr",
+      "p": "ts\\h y r\\`"
     },
     {
       "w": "ran",
@@ -1269,8 +2477,20 @@
       "p": "z` a N"
     },
     {
+      "w": "rangr",
+      "p": "z` a N r\\`"
+    },
+    {
+      "w": "ranr",
+      "p": "z` a r\\`"
+    },
+    {
       "w": "rao",
       "p": "z` a w"
+    },
+    {
+      "w": "raor",
+      "p": "z` a w r\\`"
     },
     {
       "w": "re",
@@ -1285,8 +2505,24 @@
       "p": "z` @ N"
     },
     {
+      "w": "rengr",
+      "p": "z` @ N r\\`"
+    },
+    {
+      "w": "renr",
+      "p": "z` @ r\\`"
+    },
+    {
+      "w": "rer",
+      "p": "z` 7 r\\`"
+    },
+    {
       "w": "rong",
       "p": "z` o N"
+    },
+    {
+      "w": "rongr",
+      "p": "z` o N r\\`"
     },
     {
       "w": "ru",
@@ -1301,16 +2537,40 @@
       "p": "z` w a n"
     },
     {
+      "w": "ruanr",
+      "p": "z` w a r\\`"
+    },
+    {
+      "w": "ruar",
+      "p": "z` w a r\\`"
+    },
+    {
       "w": "rui",
       "p": "z` w e j"
+    },
+    {
+      "w": "ruir",
+      "p": "z` u r\\`"
     },
     {
       "w": "run",
       "p": "z` u n"
     },
     {
+      "w": "runr",
+      "p": "z` u r\\`"
+    },
+    {
       "w": "ruo",
       "p": "z` w o"
+    },
+    {
+      "w": "ruor",
+      "p": "z` w o r\\`"
+    },
+    {
+      "w": "rur",
+      "p": "z` u r\\`"
     },
     {
       "w": "sa",
@@ -1321,6 +2581,10 @@
       "p": "s a j"
     },
     {
+      "w": "sair",
+      "p": "s a r\\`"
+    },
+    {
       "w": "san",
       "p": "s a n"
     },
@@ -1329,8 +2593,24 @@
       "p": "s a N"
     },
     {
+      "w": "sangr",
+      "p": "s a N r\\`"
+    },
+    {
+      "w": "sanr",
+      "p": "s a r\\`"
+    },
+    {
       "w": "sao",
       "p": "s a w"
+    },
+    {
+      "w": "saor",
+      "p": "s a w r\\`"
+    },
+    {
+      "w": "sar",
+      "p": "s a r\\`"
     },
     {
       "w": "se",
@@ -1341,12 +2621,28 @@
       "p": "s e j"
     },
     {
+      "w": "seir",
+      "p": "s @ r\\`"
+    },
+    {
       "w": "sen",
       "p": "s @ n"
     },
     {
       "w": "seng",
       "p": "s @ N"
+    },
+    {
+      "w": "sengr",
+      "p": "s @ N r\\`"
+    },
+    {
+      "w": "senr",
+      "p": "s @ r\\`"
+    },
+    {
+      "w": "ser",
+      "p": "s 7 r\\`"
     },
     {
       "w": "sha",
@@ -1357,6 +2653,10 @@
       "p": "s` a j"
     },
     {
+      "w": "shair",
+      "p": "s` a r\\`"
+    },
+    {
       "w": "shan",
       "p": "s` a n"
     },
@@ -1365,8 +2665,24 @@
       "p": "s` a N"
     },
     {
+      "w": "shangr",
+      "p": "s` a N r\\`"
+    },
+    {
+      "w": "shanr",
+      "p": "s` a r\\`"
+    },
+    {
       "w": "shao",
       "p": "s` a w"
+    },
+    {
+      "w": "shaor",
+      "p": "s` a w r\\`"
+    },
+    {
+      "w": "shar",
+      "p": "s` a r\\`"
     },
     {
       "w": "she",
@@ -1377,6 +2693,10 @@
       "p": "s` e j"
     },
     {
+      "w": "sheir",
+      "p": "s` @ r\\`"
+    },
+    {
       "w": "shen",
       "p": "s` @ n"
     },
@@ -1385,8 +2705,24 @@
       "p": "s` @ N"
     },
     {
+      "w": "shengr",
+      "p": "s` @ N r\\`"
+    },
+    {
+      "w": "shenr",
+      "p": "s` @ r\\`"
+    },
+    {
+      "w": "sher",
+      "p": "s` 7 r\\`"
+    },
+    {
       "w": "shi",
       "p": "s` i\\"
+    },
+    {
+      "w": "shir",
+      "p": "s` @ r\\`"
     },
     {
       "w": "sho",
@@ -1397,8 +2733,20 @@
       "p": "s` o N"
     },
     {
+      "w": "shongr",
+      "p": "s` o N r\\`"
+    },
+    {
+      "w": "shor",
+      "p": "s` o r\\`"
+    },
+    {
       "w": "shou",
       "p": "s` o w"
+    },
+    {
+      "w": "shour",
+      "p": "s` o w r\\`"
     },
     {
       "w": "shu",
@@ -1413,6 +2761,10 @@
       "p": "s` w a j"
     },
     {
+      "w": "shuair",
+      "p": "s` w a r\\`"
+    },
+    {
       "w": "shuan",
       "p": "s` w a n"
     },
@@ -1421,16 +2773,44 @@
       "p": "s` w a N"
     },
     {
+      "w": "shuangr",
+      "p": "s` w a N r\\`"
+    },
+    {
+      "w": "shuanr",
+      "p": "s` w a r\\`"
+    },
+    {
+      "w": "shuar",
+      "p": "s` w a r\\`"
+    },
+    {
       "w": "shui",
       "p": "s` w e j"
+    },
+    {
+      "w": "shuir",
+      "p": "s` u r\\`"
     },
     {
       "w": "shun",
       "p": "s` u n"
     },
     {
+      "w": "shunr",
+      "p": "s` u r\\`"
+    },
+    {
       "w": "shuo",
       "p": "s` w o"
+    },
+    {
+      "w": "shuor",
+      "p": "s` w o r\\`"
+    },
+    {
+      "w": "shur",
+      "p": "s` u r\\`"
     },
     {
       "w": "si",
@@ -1445,16 +2825,36 @@
       "p": "s j a N"
     },
     {
+      "w": "siangr",
+      "p": "s j a N r\\`"
+    },
+    {
+      "w": "sianr",
+      "p": "s j a r\\`"
+    },
+    {
       "w": "siao",
       "p": "s j a w"
     },
     {
+      "w": "siaor",
+      "p": "s j a w r\\`"
+    },
+    {
       "w": "sie",
-      "p": "s j 7"
+      "p": "s j e"
+    },
+    {
+      "w": "sier",
+      "p": "s j e r\\`"
     },
     {
       "w": "sii",
       "p": "s i"
+    },
+    {
+      "w": "siir",
+      "p": "s i r\\`"
     },
     {
       "w": "sin",
@@ -1465,12 +2865,32 @@
       "p": "s i N"
     },
     {
+      "w": "singr",
+      "p": "s i N r\\`"
+    },
+    {
+      "w": "sinr",
+      "p": "s i r\\`"
+    },
+    {
       "w": "sio",
       "p": "s j o"
     },
     {
+      "w": "sior",
+      "p": "s j o r\\`"
+    },
+    {
+      "w": "sir",
+      "p": "s @ r\\`"
+    },
+    {
       "w": "siu",
       "p": "s j o w"
+    },
+    {
+      "w": "siur",
+      "p": "s j o w r\\`"
     },
     {
       "w": "so",
@@ -1481,8 +2901,20 @@
       "p": "s o N"
     },
     {
+      "w": "songr",
+      "p": "s o N r\\`"
+    },
+    {
+      "w": "sor",
+      "p": "s o r\\`"
+    },
+    {
       "w": "sou",
       "p": "s o w"
+    },
+    {
+      "w": "sour",
+      "p": "s o w r\\`"
     },
     {
       "w": "su",
@@ -1493,20 +2925,44 @@
       "p": "s w a n"
     },
     {
+      "w": "suanr",
+      "p": "s w a r\\`"
+    },
+    {
       "w": "sue",
       "p": "s w e"
+    },
+    {
+      "w": "suer",
+      "p": "s w e r\\`"
     },
     {
       "w": "sui",
       "p": "s w e j"
     },
     {
+      "w": "suir",
+      "p": "s u r\\`"
+    },
+    {
       "w": "sun",
       "p": "s u n"
     },
     {
+      "w": "sunr",
+      "p": "s u r\\`"
+    },
+    {
       "w": "suo",
       "p": "s w o"
+    },
+    {
+      "w": "suor",
+      "p": "s w o r\\`"
+    },
+    {
+      "w": "sur",
+      "p": "s u r\\`"
     },
     {
       "w": "sv",
@@ -1517,12 +2973,28 @@
       "p": "s w e n"
     },
     {
+      "w": "svanr",
+      "p": "s w a r\\`"
+    },
+    {
       "w": "sve",
       "p": "s w e"
     },
     {
+      "w": "sver",
+      "p": "s w e r\\`"
+    },
+    {
       "w": "svn",
       "p": "s y n"
+    },
+    {
+      "w": "svnr",
+      "p": "s y r\\`"
+    },
+    {
+      "w": "svr",
+      "p": "s y r\\`"
     },
     {
       "w": "ta",
@@ -1533,6 +3005,10 @@
       "p": "th a j"
     },
     {
+      "w": "tair",
+      "p": "th a r\\`"
+    },
+    {
       "w": "tan",
       "p": "th a n"
     },
@@ -1541,8 +3017,24 @@
       "p": "th a N"
     },
     {
+      "w": "tangr",
+      "p": "th a N r\\`"
+    },
+    {
+      "w": "tanr",
+      "p": "th a r\\`"
+    },
+    {
       "w": "tao",
       "p": "th a w"
+    },
+    {
+      "w": "taor",
+      "p": "th a w r\\`"
+    },
+    {
+      "w": "tar",
+      "p": "th a r\\`"
     },
     {
       "w": "te",
@@ -1553,12 +3045,28 @@
       "p": "th e j"
     },
     {
+      "w": "teir",
+      "p": "th @ r\\`"
+    },
+    {
       "w": "ten",
       "p": "th @ n"
     },
     {
       "w": "teng",
       "p": "th @ N"
+    },
+    {
+      "w": "tengr",
+      "p": "th @ N r\\`"
+    },
+    {
+      "w": "tenr",
+      "p": "th @ r\\`"
+    },
+    {
+      "w": "ter",
+      "p": "th 7 r\\`"
     },
     {
       "w": "ti",
@@ -1569,24 +3077,44 @@
       "p": "th j e n"
     },
     {
+      "w": "tianr",
+      "p": "th j a r\\`"
+    },
+    {
       "w": "tiao",
       "p": "th j a w"
     },
     {
-      "w": "tie",
-      "p": "th j 7"
+      "w": "tiaor",
+      "p": "th j a w r\\`"
     },
     {
-      "w": "tin",
-      "p": "th i n"
+      "w": "tie",
+      "p": "th j e"
+    },
+    {
+      "w": "tier",
+      "p": "th j e r\\`"
     },
     {
       "w": "ting",
       "p": "th i N"
     },
     {
+      "w": "tingr",
+      "p": "th i N r\\`"
+    },
+    {
+      "w": "tir",
+      "p": "th i r\\`"
+    },
+    {
       "w": "tiu",
       "p": "th j o w"
+    },
+    {
+      "w": "tiur",
+      "p": "th j o w r\\`"
     },
     {
       "w": "to",
@@ -1597,16 +3125,44 @@
       "p": "th o N"
     },
     {
+      "w": "tongr",
+      "p": "th o N r\\`"
+    },
+    {
+      "w": "tor",
+      "p": "th o r\\`"
+    },
+    {
       "w": "tou",
       "p": "th o w"
+    },
+    {
+      "w": "tour",
+      "p": "th o w r\\`"
     },
     {
       "w": "tu",
       "p": "th u"
     },
     {
+      "w": "tun",
+      "p": "th u n"
+    },
+    {
+      "w": "tunr",
+      "p": "th u n r\\`"
+    },
+    {
       "w": "tuo",
       "p": "th w o"
+    },
+    {
+      "w": "tuor",
+      "p": "th w o r\\`"
+    },
+    {
+      "w": "tur",
+      "p": "th u r\\`"
     },
     {
       "w": "u",
@@ -1669,6 +3225,10 @@
       "p": "w a j"
     },
     {
+      "w": "wair",
+      "p": "w a r\\`"
+    },
+    {
       "w": "wan",
       "p": "w a n"
     },
@@ -1677,8 +3237,24 @@
       "p": "w a N"
     },
     {
+      "w": "wangr",
+      "p": "w a N r\\`"
+    },
+    {
+      "w": "wanr",
+      "p": "w a r\\`"
+    },
+    {
+      "w": "war",
+      "p": "w a r\\`"
+    },
+    {
       "w": "wei",
       "p": "w e j"
+    },
+    {
+      "w": "weir",
+      "p": "u r\\`"
     },
     {
       "w": "wen",
@@ -1689,6 +3265,14 @@
       "p": "w @ N"
     },
     {
+      "w": "wengr",
+      "p": "w @ N r\\`"
+    },
+    {
+      "w": "wenr",
+      "p": "u r\\`"
+    },
+    {
       "w": "wo",
       "p": "w o"
     },
@@ -1697,8 +3281,20 @@
       "p": "w o N"
     },
     {
+      "w": "wongr",
+      "p": "w o N r\\`"
+    },
+    {
+      "w": "wor",
+      "p": "w o r\\`"
+    },
+    {
       "w": "wu",
       "p": "w u"
+    },
+    {
+      "w": "wur",
+      "p": "w u r\\`"
     },
     {
       "w": "xi",
@@ -1713,6 +3309,10 @@
       "p": "s\\ j a j"
     },
     {
+      "w": "xiair",
+      "p": "s\\ j a r\\`"
+    },
+    {
       "w": "xian",
       "p": "s\\ j e n"
     },
@@ -1721,12 +3321,32 @@
       "p": "s\\ j a N"
     },
     {
+      "w": "xiangr",
+      "p": "s\\ j a N r\\`"
+    },
+    {
+      "w": "xianr",
+      "p": "s\\ j a r\\`"
+    },
+    {
       "w": "xiao",
       "p": "s\\ j a w"
     },
     {
+      "w": "xiaor",
+      "p": "s\\ j a w r\\`"
+    },
+    {
+      "w": "xiar",
+      "p": "s\\ j a r\\`"
+    },
+    {
       "w": "xie",
-      "p": "s\\ j 7"
+      "p": "s\\ j e"
+    },
+    {
+      "w": "xier",
+      "p": "s\\ j e r\\`"
     },
     {
       "w": "xin",
@@ -1737,6 +3357,14 @@
       "p": "s\\ i N"
     },
     {
+      "w": "xingr",
+      "p": "s\\ i N r\\`"
+    },
+    {
+      "w": "xinr",
+      "p": "s\\ i r\\`"
+    },
+    {
       "w": "xio",
       "p": "s\\ j o"
     },
@@ -1745,8 +3373,24 @@
       "p": "s\\ j o N"
     },
     {
+      "w": "xiongr",
+      "p": "s\\ j o N r\\`"
+    },
+    {
+      "w": "xior",
+      "p": "s\\ j o r\\`"
+    },
+    {
+      "w": "xir",
+      "p": "s\\ i r\\`"
+    },
+    {
       "w": "xiu",
       "p": "s\\ j o w"
+    },
+    {
+      "w": "xiur",
+      "p": "s\\ j o w r\\`"
     },
     {
       "w": "xu",
@@ -1757,12 +3401,28 @@
       "p": "s\\ w e n"
     },
     {
+      "w": "xuanr",
+      "p": "s\\ w a r\\`"
+    },
+    {
       "w": "xue",
       "p": "s\\ w e"
     },
     {
+      "w": "xuer",
+      "p": "s\\ w e r\\`"
+    },
+    {
       "w": "xun",
       "p": "s\\ y n"
+    },
+    {
+      "w": "xunr",
+      "p": "s\\ y r\\`"
+    },
+    {
+      "w": "xur",
+      "p": "s\\ y r\\`"
     },
     {
       "w": "xv",
@@ -1773,12 +3433,28 @@
       "p": "s\\ w e n"
     },
     {
+      "w": "xvanr",
+      "p": "s\\ w a r\\`"
+    },
+    {
       "w": "xve",
       "p": "s\\ w e"
     },
     {
+      "w": "xver",
+      "p": "s\\ w e r\\`"
+    },
+    {
       "w": "xvn",
       "p": "s\\ y n"
+    },
+    {
+      "w": "xvnr",
+      "p": "s\\ y r\\`"
+    },
+    {
+      "w": "xvr",
+      "p": "s\\ y r\\`"
     },
     {
       "w": "ya",
@@ -1789,6 +3465,10 @@
       "p": "j a j"
     },
     {
+      "w": "yair",
+      "p": "j a r\\`"
+    },
+    {
       "w": "yan",
       "p": "j e n"
     },
@@ -1797,12 +3477,32 @@
       "p": "j a N"
     },
     {
+      "w": "yangr",
+      "p": "j a N r\\`"
+    },
+    {
+      "w": "yanr",
+      "p": "j a r\\`"
+    },
+    {
       "w": "yao",
       "p": "j a w"
     },
     {
+      "w": "yaor",
+      "p": "j a w r\\`"
+    },
+    {
+      "w": "yar",
+      "p": "j a r\\`"
+    },
+    {
       "w": "ye",
       "p": "j e"
+    },
+    {
+      "w": "yer",
+      "p": "j e r\\`"
     },
     {
       "w": "yi",
@@ -1817,6 +3517,18 @@
       "p": "j i N"
     },
     {
+      "w": "yingr",
+      "p": "j i N r\\`"
+    },
+    {
+      "w": "yinr",
+      "p": "j i r\\`"
+    },
+    {
+      "w": "yir",
+      "p": "j i r\\`"
+    },
+    {
       "w": "yo",
       "p": "j o"
     },
@@ -1825,8 +3537,20 @@
       "p": "j o N"
     },
     {
+      "w": "yongr",
+      "p": "j o N r\\`"
+    },
+    {
+      "w": "yor",
+      "p": "j o r\\`"
+    },
+    {
       "w": "you",
       "p": "j o w"
+    },
+    {
+      "w": "your",
+      "p": "j o w r\\`"
     },
     {
       "w": "yu",
@@ -1837,12 +3561,28 @@
       "p": "j w e n"
     },
     {
+      "w": "yuanr",
+      "p": "j w a r\\`"
+    },
+    {
       "w": "yue",
       "p": "j w e"
     },
     {
+      "w": "yuer",
+      "p": "j w e r\\`"
+    },
+    {
       "w": "yun",
       "p": "j y n"
+    },
+    {
+      "w": "yunr",
+      "p": "j y r\\`"
+    },
+    {
+      "w": "yur",
+      "p": "j y r\\`"
     },
     {
       "w": "za",
@@ -1853,6 +3593,10 @@
       "p": "ts a j"
     },
     {
+      "w": "zair",
+      "p": "ts a r\\`"
+    },
+    {
       "w": "zan",
       "p": "ts a n"
     },
@@ -1861,8 +3605,24 @@
       "p": "ts a N"
     },
     {
+      "w": "zangr",
+      "p": "ts a N r\\`"
+    },
+    {
+      "w": "zanr",
+      "p": "ts a r\\`"
+    },
+    {
       "w": "zao",
       "p": "ts a w"
+    },
+    {
+      "w": "zaor",
+      "p": "ts a w r\\`"
+    },
+    {
+      "w": "zar",
+      "p": "ts a r\\`"
     },
     {
       "w": "ze",
@@ -1873,12 +3633,28 @@
       "p": "ts e j"
     },
     {
+      "w": "zeir",
+      "p": "ts @ r\\`"
+    },
+    {
       "w": "zen",
       "p": "ts @ n"
     },
     {
       "w": "zeng",
       "p": "ts @ N"
+    },
+    {
+      "w": "zengr",
+      "p": "ts @ N r\\`"
+    },
+    {
+      "w": "zenr",
+      "p": "ts @ r\\`"
+    },
+    {
+      "w": "zer",
+      "p": "ts 7 r\\`"
     },
     {
       "w": "zha",
@@ -1889,6 +3665,10 @@
       "p": "ts` a j"
     },
     {
+      "w": "zhair",
+      "p": "ts` a r\\`"
+    },
+    {
       "w": "zhan",
       "p": "ts` a n"
     },
@@ -1897,8 +3677,24 @@
       "p": "ts` a N"
     },
     {
+      "w": "zhangr",
+      "p": "ts` a N r\\`"
+    },
+    {
+      "w": "zhanr",
+      "p": "ts` a r\\`"
+    },
+    {
       "w": "zhao",
       "p": "ts` a w"
+    },
+    {
+      "w": "zhaor",
+      "p": "ts` a w r\\`"
+    },
+    {
+      "w": "zhar",
+      "p": "ts` a r\\`"
     },
     {
       "w": "zhe",
@@ -1909,6 +3705,10 @@
       "p": "ts` e j"
     },
     {
+      "w": "zheir",
+      "p": "ts` @ r\\`"
+    },
+    {
       "w": "zhen",
       "p": "ts` @ n"
     },
@@ -1917,8 +3717,24 @@
       "p": "ts` @ N"
     },
     {
+      "w": "zhengr",
+      "p": "ts` @ N r\\`"
+    },
+    {
+      "w": "zhenr",
+      "p": "ts` @ r\\`"
+    },
+    {
+      "w": "zher",
+      "p": "ts` 7 r\\`"
+    },
+    {
       "w": "zhi",
       "p": "ts` i\\"
+    },
+    {
+      "w": "zhir",
+      "p": "ts` @ r\\`"
     },
     {
       "w": "zho",
@@ -1929,8 +3745,20 @@
       "p": "ts` o N"
     },
     {
+      "w": "zhongr",
+      "p": "ts` o N r\\`"
+    },
+    {
+      "w": "zhor",
+      "p": "ts` o r\\`"
+    },
+    {
       "w": "zhou",
       "p": "ts` o w"
+    },
+    {
+      "w": "zhour",
+      "p": "ts` o w r\\`"
     },
     {
       "w": "zhu",
@@ -1945,6 +3773,10 @@
       "p": "ts` w a j"
     },
     {
+      "w": "zhuair",
+      "p": "ts` w a r\\`"
+    },
+    {
       "w": "zhuan",
       "p": "ts` w a n"
     },
@@ -1953,16 +3785,44 @@
       "p": "ts` w a N"
     },
     {
+      "w": "zhuangr",
+      "p": "ts` w a N r\\`"
+    },
+    {
+      "w": "zhuanr",
+      "p": "ts` w a r\\`"
+    },
+    {
+      "w": "zhuar",
+      "p": "ts` w a r\\`"
+    },
+    {
       "w": "zhui",
       "p": "ts` w e j"
+    },
+    {
+      "w": "zhuir",
+      "p": "ts` u r\\`"
     },
     {
       "w": "zhun",
       "p": "ts` u n"
     },
     {
+      "w": "zhunr",
+      "p": "ts` u r\\`"
+    },
+    {
       "w": "zhuo",
       "p": "ts` w o"
+    },
+    {
+      "w": "zhuor",
+      "p": "ts` w o r\\`"
+    },
+    {
+      "w": "zhur",
+      "p": "ts` u r\\`"
     },
     {
       "w": "zi",
@@ -1977,16 +3837,36 @@
       "p": "ts j a N"
     },
     {
+      "w": "ziangr",
+      "p": "ts j a N r\\`"
+    },
+    {
+      "w": "zianr",
+      "p": "ts j a r\\`"
+    },
+    {
       "w": "ziao",
       "p": "ts j a w"
     },
     {
+      "w": "ziaor",
+      "p": "ts j a w r\\`"
+    },
+    {
       "w": "zie",
-      "p": "ts j 7"
+      "p": "ts j e"
+    },
+    {
+      "w": "zier",
+      "p": "ts j e r\\`"
     },
     {
       "w": "zii",
       "p": "ts i"
+    },
+    {
+      "w": "ziir",
+      "p": "ts i r\\`"
     },
     {
       "w": "zin",
@@ -1997,12 +3877,32 @@
       "p": "ts i N"
     },
     {
+      "w": "zingr",
+      "p": "ts i N r\\`"
+    },
+    {
+      "w": "zinr",
+      "p": "ts i r\\`"
+    },
+    {
       "w": "zio",
       "p": "ts j o"
     },
     {
+      "w": "zior",
+      "p": "ts j o r\\`"
+    },
+    {
+      "w": "zir",
+      "p": "ts @ r\\`"
+    },
+    {
       "w": "ziu",
       "p": "ts j o w"
+    },
+    {
+      "w": "ziur",
+      "p": "ts j o w r\\`"
     },
     {
       "w": "zo",
@@ -2013,8 +3913,20 @@
       "p": "ts o N"
     },
     {
+      "w": "zongr",
+      "p": "ts o N r\\`"
+    },
+    {
+      "w": "zor",
+      "p": "ts o r\\`"
+    },
+    {
       "w": "zou",
       "p": "ts o w"
+    },
+    {
+      "w": "zour",
+      "p": "ts o w r\\`"
     },
     {
       "w": "zu",
@@ -2025,20 +3937,44 @@
       "p": "ts w a n"
     },
     {
+      "w": "zuanr",
+      "p": "ts w a r\\`"
+    },
+    {
       "w": "zue",
       "p": "ts w e"
+    },
+    {
+      "w": "zuer",
+      "p": "ts w e r\\`"
     },
     {
       "w": "zui",
       "p": "ts w e j"
     },
     {
+      "w": "zuir",
+      "p": "ts u r\\`"
+    },
+    {
       "w": "zun",
       "p": "ts u n"
     },
     {
+      "w": "zunr",
+      "p": "ts u r\\`"
+    },
+    {
       "w": "zuo",
       "p": "ts w o"
+    },
+    {
+      "w": "zuor",
+      "p": "ts w o r\\`"
+    },
+    {
+      "w": "zur",
+      "p": "ts u r\\`"
     },
     {
       "w": "zv",
@@ -2049,12 +3985,28 @@
       "p": "ts w e n"
     },
     {
+      "w": "zvanr",
+      "p": "ts w a r\\`"
+    },
+    {
       "w": "zve",
       "p": "ts w e"
     },
     {
+      "w": "zver",
+      "p": "ts w e r\\`"
+    },
+    {
       "w": "zvn",
       "p": "ts y n"
+    },
+    {
+      "w": "zvnr",
+      "p": "ts y r\\`"
+    },
+    {
+      "w": "zvr",
+      "p": "ts y r\\`"
     }
   ]
 }
