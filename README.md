@@ -26,7 +26,7 @@ e   vowel -> eh
 U   vowel *
 u   vowel -> u
 i   vowel -> i
-i\  vowel -> i
+i\  vowel -> ih
 i`  vowel *
 y   vowel -> yu
 AU  diphthong *
