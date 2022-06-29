@@ -75,81 +75,87 @@ j   semivowel -> y
 pau silence *
 sil silence -> sil
 ```
-
 `*` 擬淘汰 To be eliminated
+#### 擬增加音素 Phonemes to be added
+```
+yw semivowel
+```
 ### 聲母 Initials
 |#|拼音 Pinyin|現行 Current|建議 Suggestion |備注 Note
 |-|-|-|-|-|
-|1|b|**p**|**b**|*多數人讀成 mostly read as* /b/ `b`
-|2|p|**ph**|**p**|
-|3|m|**m**|**m**|
-|4|f|**f**|**f**|
-|5|d|**t**|**d**|*多數人讀成 mostly read as* /d/ `d`
-|6|t|**th**|**t**|
-|7|n|**n**|**n**|
-|8|l|**l**|**l**|
-|9|g|**k**|**g**|*多數人讀成 mostly read as* /g/ `g`
-|10|k|**kh**|**k**|
-|11|h|**x**|**h**|*多數人讀成 mostly read as* /h/ `h`
-|12|j|**ts&#92;** |**j**|*多數人讀成 mostly read as* /dʑ/ `dz\ `
-|13|q|**ts&#92;h**|**q**
-|14|x|**s&#92;** |**x**
-|15|zh|**ts&#96;**|**zh**|*多數人讀成 mostly read as* /dʒ/ `dZ`
-|16|ch|**ts&#96;h**|**ch**|*多數人讀成 mostly read as* /tʃʰ/ `tSh`
-|17|sh|**s&#96;**|**sh**|*多數人讀成 mostly read as* /ʃ/ `S`
-|18|r|**z&#96;**|**r**|*多數人讀成 mostly read as* /ʒ/ `Z`
-|19|z|**ts**|**z**|*多數人讀成 mostly read as*/dz/ `dz`
-|20|c|**tsh**|**c**
-|21|s|**s**|**s**
-|22|y|**j**|**y**
-|23|w|**w**|**w**
+|b|**p**|**b**|*多數人讀成 mostly read as* /b/ `b`
+|p|**ph**|**p**|
+|m|**m**|**m**|
+|f|**f**|**f**|
+|d|**t**|**d**|*多數人讀成 mostly read as* /d/ `d`
+|t|**th**|**t**|
+|n|**n**|**n**|
+|l|**l**|**l**|
+|g|**k**|**g**|*多數人讀成 mostly read as* /g/ `g`
+|k|**kh**|**k**|
+|h|**x**|**h**|*多數人讀成 mostly read as* /h/ `h`
+|j|**ts&#92;** |**j**|*多數人讀成 mostly read as* /dʑ/ `dz\ `
+|q|**ts&#92;h**|**q**
+|x|**s&#92;** |**x**
+|zh|**ts&#96;**|**zh**|*多數人讀成 mostly read as* /dʒ/ `dZ`
+|ch|**ts&#96;h**|**ch**|*多數人讀成 mostly read as* /tʃʰ/ `tSh`
+|sh|**s&#96;**|**sh**|*多數人讀成 mostly read as* /ʃ/ `S`
+|r|**z&#96;**|**r**|*多數人讀成 mostly read as* /ʒ/ `Z`
+|z|**ts**|**z**|*多數人讀成 mostly read as*/dz/ `dz`
+|c|**tsh**|**c**
+|s|**s**|**s**
+|y|**j**|**y**
+|w|**w**|**w**
 ### 韻母 Finals
 |#|拼音 Pinyin|現行 Current|建議 Suggestion |備注 Note
 |-|-|-|-|-|
-|24|a|**a**|**a**
-|25|ia|**ia**|y a|*介音應拆分 should be split as noticed*
-|26|ua|**ua**|w a|*介音應拆分 should be split as noticed*
-|27|o|**o**|**o**
-|28|io|**iAU**|y o|
-|29|uo|**uo**|w o|*介音應拆分 should be split as noticed*
-|30|e|**7**|**e**
-|31|ie|**ie**|y **eh**|*介音應拆分 should be split as noticed*
-|32|üe|**yE**|yu eh|*介音應拆分；真實發音仍是 should be split and read as* /ɥe/ `H e`
-|33|i|**i**|**i**
-|34|(zh/ch/sh/r)i|**i&#96;**|**ih**|*不應與下一音素區分 Not necessarily distinguished with below*
-|35|(z/c/s)i|**i&#92;**|ih
-|36|u|**u**|**u**
-|37|ü|**y**|**yu**
-|38|ai|a **:\i**|a y
-|39|iai|ia :\i|y a y
-|38|uai|ua :\i|w a y
-|39|ei|**e** :\i|eh y
-|40|ui|**ue** :\i|u y|*貼近真實發音 cater to authentic pronunciation* /uɪ/
-|41|ao|**AU**|a w|*尾音應拆分；貼近真實發音 split and cater to authentic pronunciation* /aʊ/
-|42|iao|iAU|y a w|*介尾音應拆分 should be split as noticed*
-|43|ou|**@U**|o w|*尾音應拆分；貼近真實發音 split and cater to authentic pronunciation* /oʊ/
-|44|iu|**i@U**|i w|*貼近真實發音 cater to authentic pronunciation* /iʊ/
-|45|an|a **:n**|a n
-|46|ian|**iE** :n|y eh n|*介音應拆分；真實發音仍是 actually read as* /ien/ `j e n`
-|47|uan|ua :n|w a n|介音應拆分
-|48|üan|**y{**:n|yu eh n|*介音應拆分；真實發音仍是 actually read as* /ɥen/ `H e n`
-|49|en|**@** :n|**ex** n
-|50|in|i :n|i n
-|51|un|**u@** :n|u n|*貼近真實發音 cater to authentic pronunciation* /un/
-|52|ün|yE :n|yu n|*正確發音是 actually read as* /yn/
-|53|ang|**A N**|a **ng**|*正確發音是 actually read as* /aŋ/ `a N`
-|54|iang|**iA** N|y a ng|*介音應拆分 should be split as noticed*
-|55|uang|**uA** N|w a ng|*介音應拆分 should be split as noticed*
-|56|eng|@ N|ex ng
-|57|ing|i N|i ng
-|58|ueng|u@ N|w ex ng|*介音應拆分 should be split as noticed*
-|59|ong|**U** N|o ng|*常讀作 normally read as* /oŋ/ `o N`
-|60|iong|**iU** N|y o ng|*介音應拆分 should be split as noticed*
-|61|er|a **r&#92;&#96;**|ex **rr**|*正確發音是 actually read as* /ɚ/~/əɻ/ ``@` `` ~ ``@ r\` ``
+|a|**a**|**a**
+|ia|**ia**|y a|*介音應拆分 should be split as noticed*
+|ua|**ua**|w a|*介音應拆分 should be split as noticed*
+|o|**o**|**o**
+|io|**iAU**|y o|
+|uo|**uo**|w o|*介音應拆分 should be split as noticed*
+|e|**7**|**e**
+|ie|**ie**|y **eh**|*介音應拆分 should be split as noticed*
+|üe|**yE**|**yw** eh|*介音應拆分；真實發音仍是 should be split and read as* /ɥe/ `H e`
+|i|**i**|**i**
+|(zh/ch/sh/r)i|**i&#96;**|**ih**|*不應與下一音素區分 Not necessarily distinguished with below*
+|(z/c/s)i|**i&#92;**|ih
+|u|**u**|**u**
+|ü|**y**|**yu**
+|ai|a **:\i**|a y
+|iai|ia :\i|y a y
+|uai|ua :\i|w a y
+|ei|**e** :\i|eh y
+|ui|**ue** :\i|u y|*貼近真實發音 cater to authentic pronunciation* /uɪ/
+|ao|**AU**|a w|*尾音應拆分；貼近真實發音 split and cater to authentic pronunciation* /aʊ/
+|iao|iAU|y a w|*介尾音應拆分 should be split as noticed*
+|ou|**@U**|o w|*尾音應拆分；貼近真實發音 split and cater to authentic pronunciation* /oʊ/
+|iu|**i@U**|i w|*貼近真實發音 cater to authentic pronunciation* /iʊ/
+|an|a **:n**|a n
+|ian|**iE** :n|y eh n|*介音應拆分；真實發音仍是 actually read as* /ien/ `j e n`
+|uan|ua :n|w a n|介音應拆分
+|üan|**y{**:n|yw eh n|*介音應拆分；真實發音仍是 actually read as* /ɥen/ `H e n`
+|en|**@** :n|**ex** n
+|in|i :n|i n
+|un|**u@** :n|u n|*貼近真實發音 cater to authentic pronunciation* /un/
+|ün|yE :n|yu n|*正確發音是 actually read as* /yn/
+|ang|**A N**|a **ng**|*正確發音是 actually read as* /aŋ/ `a N`
+|iang|**iA** N|y a ng|*介音應拆分 should be split as noticed*
+|uang|**uA** N|w a ng|*介音應拆分 should be split as noticed*
+|eng|@ N|ex ng
+|ing|i N|i ng
+|ueng|u@ N|w ex ng|*介音應拆分 should be split as noticed*
+|ong|**U** N|o ng|*常讀作 normally read as* /oŋ/ `o N`
+|iong|**iU** N|y o ng|*介音應拆分 should be split as noticed*
+|er|a **r&#92;&#96;**|ex **rr**|*正確發音是 actually read as* /ɚ/~/əɻ/ ``@` `` ~ ``@ r\` ``
 ### 總計 Total
 |拼音 Pinyin|現行 Current|建議 Suggestion
 |-|-|-
-|61|55|34
+|63|55|35
+### 附注 Notes
+本工程中詞典也支持兒化音。  
+The Mandarin dictionary of this repository also support rhotification.
 ## 粵語方面列表 List for Cantonese
 提供且僅提供合法音節組合。  
 This repository provides and only provides legal syllabic combinations.
@@ -180,5 +186,5 @@ This repository provides and only provides legal syllabic combinations.
 ## Credits 致謝
 - [華侃如 先生 Sir Kan-ru "Sleepwalking" Hua](https://github.com/sleepwalking)
 - [李迪克 先生 Sir Di-ke "Ddickky" Li](https://weibo.com/ddickky)
-- [Dreamtonics](https://dreamtonics.com) [Github](https://github.com/dreamtonics)
-- [平行四界](https://weibo.com/quadimension) [Quadimension](https://twitter.com/quadimension)
+- [Dreamtonics](https://dreamtonics.com) [(Github)](https://github.com/dreamtonics)
+- [平行四界](https://weibo.com/quadimension) [Quadimension](https://twitter.com/quad_stardust)
