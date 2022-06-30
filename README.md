@@ -46,9 +46,9 @@ u@  diphthong *
 ue  diphthong *
 uo  diphthong *
 :\i coda *
-r\` coda -> rr
+r\` coda -> rr (liquid)
 :n  coda *
-N   coda -> ng
+N   coda -> ng (nasal)
 p   stop -> b
 ph  stop -> p
 t   stop -> d
@@ -64,7 +64,7 @@ x    aspirate *actually h* -> h
 f    fricative -> f
 s    fricative -> s
 s`   fricative -> sh
-ts\h fricative *actually affricate* -> q
+ts\h fricative *actually affricate* -> q (affricate)
 s\   fricative -> x
 m   nasal -> m
 n   nasal -> n
@@ -79,6 +79,8 @@ sil silence -> sil
 #### 擬增加音素 Phonemes to be added
 ```
 yw semivowel
+v  fricative
+gn nasal
 ```
 ### 聲母 Initials
 |#|拼音 Pinyin|現行 Current|建議 Suggestion |備注 Note
