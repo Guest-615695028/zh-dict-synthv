@@ -83,8 +83,8 @@ v  fricative
 gn nasal
 ```
 ### 聲母 Initials
-|#|拼音 Pinyin|現行 Current|建議 Suggestion |備注 Note
-|-|-|-|-|-|
+|拼音 Pinyin|現行 Current|建議 Suggestion |備注 Note
+|-|-|-|-|
 |b|**p**|**b**|*多數人讀成 mostly read as* /b/ `b`
 |p|**ph**|**p**|
 |m|**m**|**m**|
@@ -109,8 +109,8 @@ gn nasal
 |y|**j**|**y**
 |w|**w**|**w**
 ### 韻母 Finals
-|#|拼音 Pinyin|現行 Current|建議 Suggestion |備注 Note
-|-|-|-|-|-|
+|拼音 Pinyin|現行 Current|建議 Suggestion |備注 Note
+|-|-|-|-|
 |a|**a**|**a**
 |ia|**ia**|y a|*介音應拆分 should be split as noticed*
 |ua|**ua**|w a|*介音應拆分 should be split as noticed*
