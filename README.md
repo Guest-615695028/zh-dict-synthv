@@ -137,7 +137,7 @@ gn nasal
 |an|a **:n**|a n
 |ian|**iE** :n|y eh n|*介音應拆分；真實發音仍是 actually read as* /ien/ `j e n`
 |uan|ua :n|w a n|介音應拆分
-|üan|**y{**:n|yw eh n|*介音應拆分；真實發音仍是 actually read as* /ɥen/ `H e n`
+|üan|**y{** :n|yw eh n|*介音應拆分；真實發音仍是 actually read as* /ɥen/ `H e n`
 |en|**@** :n|**ex** n
 |in|i :n|i n
 |un|**u@** :n|u n|*貼近真實發音 cater to authentic pronunciation* /un/
