@@ -16,8 +16,8 @@ SVS phoneme system for Chinese (`mandarin-xsampa`) is difficult to comprehend an
 6. 自1958年出版以來，中華人民共和國《[漢語拼音方案](https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3)》從未將漢語拼音與國際音標音值（表徵爲X-SAMPA）對應，且現有對應關係頗存爭議。\
 [Scheme for the Chinese Phonetic Alphabet](https://en.wikipedia.org/wiki/Pinyin) has not been mapping Pinyin to IPA (then X-SAMPA) ever since its publication by the Chinese Government in 1958, with their corrrespondence still controversial.
 
-究其原因，第五代合成器工坊爲中國人（華侃如）所開發，而博歌樂爲日本人（劍持秀紀）所開發。\
-These may be concluded as nationality of development, as Synthesizer V Studio is developed by Chinese (Hua Kanru) with VOCALOID by Japanese (Kenmochi Hideki).
+究其原因，第五代合成器工坊爲中國人（華侃如）所開發，而博歌樂爲日本人（劍持秀紀）所開發，各自會重點關注母語細微差異。\
+These may be concluded as nationality of development, as Synthesizer V Studio is developed by Chinese (Hua Kanru) with VOCALOID by Japanese (Kenmochi Hideki), each concerning the phonetic differentials in their first languages finest.
 
 ## 華語方面列表 List for Mandarin
 ### 音素 Phonemes
