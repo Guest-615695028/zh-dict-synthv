@@ -15,6 +15,7 @@ SVS mistakes Chinese *io* as *iao*;
 SVS phoneme system for Chinese (`mandarin-xsampa`) is difficult to comprehend and memorize without the assistance of Pinyin, which results in a disadvantage of translingual synthesis.
 6. 自1958年出版以來，中華人民共和國《[漢語拼音方案](https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3)》從未將漢語拼音與國際音標音值（表徵爲X-SAMPA）對應，且現有對應關係頗存爭議。\
 [Scheme for the Chinese Phonetic Alphabet](https://en.wikipedia.org/wiki/Pinyin) has not been mapping Pinyin to IPA (then X-SAMPA) ever since its publication by the Chinese Government in 1958, with their corrrespondence still controversial.
+
 究其原因，第五代合成器工坊爲中國人（華侃如）所開發，而博歌樂爲日本人（劍持秀紀）所開發。\
 These may be concluded as nationality of development, as Synthesizer V Studio is developed by Chinese (Hua Kanru) with VOCALOID by Japanese (Kenmochi Hideki).
 
@@ -187,7 +188,7 @@ This repository provides and only provides legal syllabic combinations.
 |`7`|oe|eoi|-|-|eon|oeng|-|eot|oek|
 |`y`|yu|-|-|-|yun|-|-|yut|-
 ## Examples 示例
-1. [《七子之歌》之《香港》《九龍島》（慶祝香港回歸25周年，聞一多詞，本人曲）](https://www.bilibili.com/video/BV19G411s7wA)
+1. [《七子之歌》之《香港》《九龍島》（慶祝香港回歸25周年，聞一多詞，本人曲）](https://www.bilibili.com/video/BV19G411s7wA)\
 *Seven Sons' Song*, *Hong Kong* and *Kowloon Island*, in memory of Hong Kong's handover for 25 years
 ## Credits 致謝
 - 【山東】[華侃如 先生 Sir Kan-ru "Sleepwalking" Hua](https://github.com/sleepwalking)
