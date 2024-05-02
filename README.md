@@ -1,18 +1,22 @@
 # zh-dict-synthv
 ## 説明 Description
-這一工程旨在增加Synthesizer V Studio（SV）漢語方言並縮小華語聲庫音素表並降低其解析程序之時空複雜度。  
+這一工程旨在增加第五代合成器工坊（Synthesizer V Studio）漢語方言並縮小華語聲庫音素表並降低其解析程序之時空複雜度。\
 This repository is aimed at extending dialectal support for Chinese voicebanks of Synthesizer V Studio (SVS) and reduce their phoneme list size to lower the time and space complexity of their respective resolution programs.
 ### 既定事實 Accomplished Facts
-1. SVS不區分VOCALOID區分的英語前L（**l**ot, ``l0``）與後L（ge**l**, ``l``）、送氣塞音與不送氣塞音；  
+1. SVS不區分[博歌樂](https://www.vocaloid.com/)區分的英語前L（**l**ot, ``l0``）與後L（ge**l**, ``l``）、送氣塞音與不送氣塞音；\
 SVS does not tell initial L's (`l0` in VOCALOID) apart from the final L's (`l` in VOCALOID), aspired explosives apart from unaspired ones (distinguished in VOCALOID) in English;
-2. SVS不區分日語ha、he、ho（は、へ、ほ）的h（/h/）與hi（ひ）的h（/ç/）；  
+2. SVS不區分日語`ha`、`he`、`ho`（は、へ、ほ）的`h`（/h/）與`hi`（ひ）的`h`（/ç/）；\
 SVS does not distinguish the H's in *ha*, *he*, *ho* (all /h/) and *hi* (/ç/);
-3. SVS誤將中文io并入iao；  
+3. SVS不區分[博歌樂](https://www.vocaloid.com/)區分的日語`dZ`與`Z`（ぢ/じ），`dz`與`z`（づ/ず）；\
+SVS does not distinguish _ji_ with _zhi_, _dzu_ with _zu_ as for VOCALOID;
+4. SVS誤將中文io并入iao；\
 SVS mistakes Chinese *io* as *iao*;
-4. SVS中文音素方案難以獨立理解、記憶，不利於跨語種調教。  
+5. SVS中文音素方案難以獨立理解、記憶，不利於跨語種調教。\
 SVS phoneme system for Chinese (`mandarin-xsampa`) is difficult to comprehend and memorize without the assistance of Pinyin, which results in a disadvantage of translingual synthesis.
-5. 自1958年出版以來，中華人民共和國《[漢語拼音方案](https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3)》從未將漢語拼音與國際音標音值（表徵爲X-SAMPA）對應，且現有對應關係頗存爭議。  
+6. 自1958年出版以來，中華人民共和國《[漢語拼音方案](https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3)》從未將漢語拼音與國際音標音值（表徵爲X-SAMPA）對應，且現有對應關係頗存爭議。\
 [Scheme for the Chinese Phonetic Alphabet](https://en.wikipedia.org/wiki/Pinyin) has not been mapping Pinyin to IPA (then X-SAMPA) ever since its publication by the Chinese Government in 1958, with their corrrespondence still controversial.
+究其原因，第五代合成器工坊爲中國人（華侃如）所開發，而博歌樂爲日本人（劍持秀紀）所開發。\
+These may be concluded as nationality of development, as Synthesizer V Studio is developed by Chinese (Hua Kanru) with VOCALOID by Japanese (Kenmochi Hideki).
 
 ## 華語方面列表 List for Mandarin
 ### 音素 Phonemes
